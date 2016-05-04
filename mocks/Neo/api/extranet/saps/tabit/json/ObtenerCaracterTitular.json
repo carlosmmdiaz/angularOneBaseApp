@@ -1,0 +1,15 @@
+[ {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "P",
+  "DESCORTA" : "Privativo",
+  "DESLARGA" : "Privativo"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "G",
+  "DESCORTA" : "Ganancial",
+  "DESLARGA" : "Ganancial"
+} ]

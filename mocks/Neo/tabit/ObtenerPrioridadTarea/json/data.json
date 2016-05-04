@@ -1,0 +1,16 @@
+[
+    {
+        "_id": {
+            "$oid": "5624c4bfdc9c2808aaf93420"
+        },
+        "CODIGO": "01",
+        "DESCRIPCION": "Alta"
+    },
+    {
+        "_id": {
+            "$oid": "5624c4bfdc9c2808aaf93421"
+        },
+        "CODIGO": "02",
+        "DESCRIPCION": "Normal"
+    }
+]

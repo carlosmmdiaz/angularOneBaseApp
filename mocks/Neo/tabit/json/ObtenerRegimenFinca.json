@@ -1,0 +1,50 @@
+[ {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VO",
+  "DESCORTA" : "V.P.O.",
+  "DESLARGA" : "V.P.O."
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "78",
+  "DESCORTA" : "V.P.O. ANT 78",
+  "DESLARGA" : "V.P.O. ANT 78"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "PR",
+  "DESCORTA" : "V.P.O. PRIVADA",
+  "DESLARGA" : "V.P.O. PRIVADA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "PU",
+  "DESCORTA" : "V.P.O. PUBLICA",
+  "DESLARGA" : "V.P.O. PUBLICA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VL",
+  "DESCORTA" : "VENTA LIBRE",
+  "DESLARGA" : "VENTA LIBRE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VT",
+  "DESCORTA" : "V.P.T.",
+  "DESLARGA" : "V.P.T."
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "SB",
+  "DESCORTA" : "SUBVENCIONADA",
+  "DESLARGA" : "SUBVENCIONADA"
+} ]

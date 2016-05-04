@@ -1,0 +1,376 @@
+{
+  "stateData": {
+    "viewId": "MostrarTareasPropuestaIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/extranet/extranet/consultartareas?_eventId=terminar&execution=e19s1",
+      "end": "/api/1.0/extranet/extranet/consultartareas?_eventId=end&execution=e19s1"
+    }
+  },
+  "data": {
+    "codigoCentroGestor": "1778",
+    "codigoPropuestaFinanciacion": "000010000006478917",
+    "listaExpedientes": [{
+      "codigoAplicacionOrigenExpediente": "T",
+      "codigoExpedienteActivo": "S",
+      "codigoFamiliaProducto": "05",
+      "codigoGrupoProducto": "10",
+      "codigoLineaNegocio": "ZM",
+      "codigoProductoTramitacion": "21000",
+      "nombreExpediente": "1571082275 ALTA PRESTAMO LA HIPOTECA BASICA",
+      "identificadorExpediente": "000000001571082275",
+      "indicadorExpedienteCerrado": "N",
+      "numeroAperturaTramitacion": "00000"
+    }, {
+      "codigoAplicacionOrigenExpediente": "T",
+      "codigoExpedienteActivo": "N",
+      "codigoFamiliaProducto": "05",
+      "codigoGrupoProducto": "10",
+      "codigoLineaNegocio": "ZM",
+      "codigoProductoTramitacion": "21000",
+      "nombreExpediente": "1571082410 ALTA PRESTAMO LA HIPOTECA BASICA",
+      "identificadorExpediente": "000000001571082410",
+      "indicadorExpedienteCerrado": "N",
+      "numeroAperturaTramitacion": "00000"
+    }, {
+      "codigoAplicacionOrigenExpediente": "T",
+      "codigoExpedienteActivo": "N",
+      "codigoFamiliaProducto": "05",
+      "codigoGrupoProducto": "10",
+      "codigoLineaNegocio": "ZM",
+      "codigoProductoTramitacion": "21000",
+      "nombreExpediente": "1571082527 ALTA PRESTAMO LA HIPOTECA BASICA",
+      "identificadorExpediente": "000000001571082527",
+      "indicadorExpedienteCerrado": "N",
+      "numeroAperturaTramitacion": "00000"
+    }, {
+      "codigoAplicacionOrigenExpediente": "T",
+      "codigoExpedienteActivo": "N",
+      "codigoFamiliaProducto": "05",
+      "codigoGrupoProducto": "10",
+      "codigoLineaNegocio": "ZM",
+      "codigoProductoTramitacion": "21000",
+      "nombreExpediente": "1571082644 ALTA PRESTAMO CREDITO JOVEN",
+      "identificadorExpediente": "000000001571082644",
+      "indicadorExpedienteCerrado": "N",
+      "numeroAperturaTramitacion": "00000"
+    }, {
+      "codigoAplicacionOrigenExpediente": "T",
+      "codigoExpedienteActivo": "N",
+      "codigoFamiliaProducto": "05",
+      "codigoGrupoProducto": "10",
+      "codigoLineaNegocio": "ZM",
+      "codigoProductoTramitacion": "21000",
+      "nombreExpediente": "1571082761 ALTA PRESTAMO CREDITO JOVEN",
+      "identificadorExpediente": "000000001571082761",
+      "indicadorExpedienteCerrado": "N",
+      "numeroAperturaTramitacion": "00000"
+    }],
+    "fasesTareas": [{
+      "codigoEstadoFase": "P",
+      "codigoFaseTarea": "1",
+      "nombreFase": "SOLICITUD"
+    }, {
+      "codigoEstadoFase": "E",
+      "codigoFaseTarea": "2",
+      "nombreFase": "TRAMITACIÓN"
+    }, {
+      "codigoEstadoFase": "P",
+      "codigoFaseTarea": "3",
+      "nombreFase": "RESOLUCIÓN"
+    }, {
+      "codigoEstadoFase": "E",
+      "codigoFaseTarea": "4",
+      "nombreFase": "FORMALIZACIÓN"
+    }, {
+      "codigoEstadoFase": "E",
+      "codigoFaseTarea": "5",
+      "nombreFase": "POST-FORMALIZACIÓN"
+    }],
+    "fechaInicioRelacion": {
+      "valor": "2016-03-08"
+    },
+    "identificadorDocumento": "X00045821M",
+    "importePropuestoOperacion": {
+      "importeConSigno": 3000000,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "nombrePropuesta": "MILA TR DESEM-2",
+    "razonSocial": "PEPITO PEREZ",
+    "tareas": [{
+      "codigoDisponibilidad": "N",
+      "codigoEstado": "2",
+      "codigoFase": "2",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "090",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN115RG2",
+      "descripcionTarea": "Verificación Registral",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000082016-03-08000"
+    }, {
+      "codigoDisponibilidad": "N",
+      "codigoEstado": "2",
+      "codigoFase": "2",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "093",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN116RIS",
+      "descripcionTarea": "Instrumentación de la Operación",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000082016-03-08000"
+    }, {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "2",
+      "codigoFase": "4",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "401",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN411RP0",
+      "descripcionTarea": "Provision de Fondos",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000082016-03-08000"
+    }, {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "2",
+      "codigoFase": "4",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "412",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN412R1C",
+      "descripcionTarea": "Gestión de cargas previas",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000082016-03-08000"
+    }, {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "2",
+      "codigoFase": "4",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "413",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN413RMP",
+      "descripcionTarea": "Resumen de Pagos",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000082016-03-08000"
+    }, {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "2",
+      "codigoFase": "4",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "414",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN414RVB",
+      "descripcionTarea": "Informe de Viabilidad",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000082016-03-08000"
+    }, {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "2",
+      "codigoFase": "4",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "417",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN417RCK",
+      "descripcionTarea": "Gestión cheques",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000082016-03-08000"
+    }, {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "2",
+      "codigoFase": "4",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "419",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN419RFS",
+      "descripcionTarea": "Formalización",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000432016-02-09000"
+    },
+    {
+        "codigoDisponibilidad": "S",
+        "codigoEstado": "1",
+        "codigoFase": "5",
+        "codigoObligatoriedad": "S",
+        "codigoOrdenTarea": "5",
+        "codigoOrigenTarea": "5",
+        "codigoReasignacionTarea": "N",
+        "codigoTarea": "TN620GPR",
+        "descripcionTarea": "Gestión de pago del registro"
+    },
+    {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "4",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "420",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN415RD4",
+      "descripcionTarea": "Documentación",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000432016-02-09000"
+    },
+    {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "5",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "421",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN640GOP",
+      "descripcionTarea": "Gestión de otros pagos",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000432016-02-09000"
+    },
+    {
+
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "5",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "423",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN655AHG",
+      "descripcionTarea": "Gestión de abono de honorarios",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000432016-02-09000"
+    },
+    {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "5",
+      "codigoObligatoriedad": "S",      
+      "codigoOrdenTarea": "423",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN650INV",
+      "descripcionTarea": "Informe de valoración",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000432016-02-09000"
+
+    },
+    {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "5",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "423",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN665COF",
+      "descripcionTarea": "Cotejo final",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000432016-02-09000"
+    },
+    {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "5",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "423",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN630GED",
+      "descripcionTarea": "Gestión de escritura defectuosa",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000432016-02-09000"
+    },
+    {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "5",
+      "codigoObligatoriedad": "S",
+      "codigoOrigenTarea": "F",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN615GPI",
+      "descripcionTarea": "Gestión pago de impuestos"
+    },
+    {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "5",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "F",
+      "codigoOrigenTarea": "F",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN645GPF",
+      "descripcionTarea": "Ampliación provisión de fondos "
+    },
+    {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "5",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "422",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN625GIR",
+      "descripcionTarea": "Gestión de inscripción en registro"
+    },
+    {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "5",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "F",
+      "codigoOrigenTarea": "F",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN660LPF",
+      "descripcionTarea": "Liquidación provisión de fondos "
+    },
+    {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "5",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "F",
+      "codigoOrigenTarea": "F",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN610GAN",
+      "descripcionTarea": "Gestión abono notario",
+      "identificadorExpedienteDocumental": "TNALAPEX0000000432016-02-09000"
+    },
+    {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "5",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "F",
+      "codigoOrigenTarea": "F",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN605RCP",
+      "descripcionTarea": "Resolución cargas previas"
+    },
+    {
+        "codigoDisponibilidad": "S",
+        "codigoEstado": "1",
+        "codigoFase": "4",
+        "codigoObligatoriedad": "S",
+        "codigoOrdenTarea": "421",
+        "codigoReasignacionTarea": "N",
+        "codigoTarea": "TN116RIS",
+        "descripcionTarea": "Instrumentación de la operación",
+        "identificadorExpedienteDocumental": "TNALAPEX0000000432016-02-09000"
+      },
+      {
+        "codigoDisponibilidad": "S",
+        "codigoEstado": "1",
+        "codigoFase": "5",
+        "codigoObligatoriedad": "S",
+        "codigoOrdenTarea": "422",
+        "codigoReasignacionTarea": "N",
+        "codigoTarea": "TN635PFV",
+        "descripcionTarea": "Gestión de provisión del vendedor",
+        "identificadorExpedienteDocumental": "TNALAPEX0000000432016-02-09000"
+      },
+      {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "5",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "F",
+      "codigoOrigenTarea": "F",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN600CPF",
+      "descripcionTarea": "Cotejo Ciego"
+      },
+      {
+      "codigoDisponibilidad": "S",
+      "codigoEstado": "1",
+      "codigoFase": "5",
+      "codigoObligatoriedad": "S",
+      "codigoOrdenTarea": "F",
+      "codigoOrigenTarea": "F",
+      "codigoReasignacionTarea": "N",
+      "codigoTarea": "TN450RD6",
+      "descripcionTarea": "Documentación y firma"
+      }
+    ],
+    "codigoEmpresaCentroGestor": "0000",
+    "codigoFaseActiva": "4"
+  }
+}

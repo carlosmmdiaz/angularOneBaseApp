@@ -1,0 +1,47 @@
+{
+  "tiempoConsumido": 1,
+  "agregaciones": {
+    "grupos": {
+      "cubos": [
+        {
+          "valor": "G2",
+          "cantidadOcurrenciasAlmacenadas": 6,
+          "tipoTarea": {
+            "cubos": [
+              {
+                "valor": "T2",
+                "cantidadOcurrenciasAlmacenadas": 6,
+                "factorias": {
+                  "cubos": [
+                    {
+                      "valor": "FAC3",
+                      "cantidadOcurrenciasAlmacenadas": 6,
+                      "equipos": {
+                        "cubos": [
+                          {
+                            "valor": "E3",
+                            "cantidadOcurrenciasAlmacenadas": 6,
+                            "tecnico": {
+                              "cubos": [
+                                {
+                                  "valor": "TEC3",
+                                  "cantidadOcurrenciasAlmacenadas": 6
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "coincidencias": [],
+  "cantidadOcurrenciasAlmacenadas": 6
+}

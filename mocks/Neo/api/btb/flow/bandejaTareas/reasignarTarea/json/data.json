@@ -1,0 +1,12 @@
+{
+  "stateData": {
+    "viewId": "MostrarResultadoOperacionIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/bandejaTareas/reasignarTarea?_eventId=terminar&execution=e1s1",
+      "end": "/api/1.0/bandejaTareas/reasignarTarea?_eventId=end&execution=e1s1"
+    }
+  },
+  "data": {
+
+  }
+}

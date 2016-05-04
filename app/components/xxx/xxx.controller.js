@@ -9,8 +9,7 @@
         var vm = this;
 
         // Public functions:
-       
-
+        
         function init() {
            
         }

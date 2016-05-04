@@ -10,14 +10,10 @@ var gulp = require('gulp'),
 // Default usage: 
 // Open one file with default application 
 gulp.task('open', function(){
-    doOpen('dev');
+    doOpen();
 });
 
-gulp.task('open:dist', function(){
-    doOpen('dist');
-});
-
-function doOpen(type){
+function doOpen(){
     var options = {
         url: 'http://localhost:8080/',
         app: browser

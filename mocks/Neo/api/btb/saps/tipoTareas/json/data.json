@@ -1,0 +1,11 @@
+{
+  "tipoTareas": [
+    {
+      "codigoTipoTarea": "DI",
+      "nombreTarea": "Digitalización",
+      "numeroHorasAntesObjetivo": 0,
+      "numeroHorasObjetivo": 0,
+      "numeroHorasRetrasoGrave": 0
+    }
+  ]
+}

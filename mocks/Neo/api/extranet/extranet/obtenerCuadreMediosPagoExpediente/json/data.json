@@ -1,0 +1,123 @@
+{
+  "stateData": {
+    "viewId": "mostrarCuadreMediosPagoExpedienteIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/obtenerCuadreMediosPagoExpediente-flow/extranet/obtenerCuadreMediosPagoExpediente?_eventId=terminar&execution=e1s1",
+      "end": "/api/1.0/obtenerCuadreMediosPagoExpediente-flow/extranet/obtenerCuadreMediosPagoExpediente?_eventId=end&execution=e1s1"
+    }
+  },
+  "data": {
+    "importeNecesarioCuentaCliente": {
+      "importeConSigno": 15067500,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "importeTransfCancelacionDeCargas": {
+      "importeConSigno": 5000033,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "importeCompraVenta": {
+      "importeConSigno": 60000000,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "importeDeEntregaACuenta": {
+      "importeConSigno": -700000,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "importeGastosCancelacionDeCargas": {
+      "importeConSigno": -2331500,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "importePropuestoDeLaOperacion": {
+      "importeConSigno": 50000000,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "importeProvisionFondosComprado": {
+      "importeConSigno": -5520000,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "importeDeComisiones": {
+      "importeConSigno": -300000,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "importeTotalDeGastos": {
+      "importeConSigno": -44180000,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "importeProvisionFondosVendedor": {
+      "importeConSigno": -52500,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "importeTotalCheques": {
+      "importeConSigno": 56916000,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "importeChequeOficinaEmisora": {
+      "importeConSigno": 44180000,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "importeChequeCuentaDeCliente": {
+      "importeConSigno": 12736000,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "importeTotalDePagos": {
+      "importeConSigno": 59247500,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    }
+  }
+}

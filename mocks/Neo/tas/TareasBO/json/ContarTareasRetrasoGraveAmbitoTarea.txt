@@ -1,0 +1,113 @@
+{
+  "tiempoConsumido": 2,
+  "agregaciones": {
+    "grupos": {
+      "cubos": [
+        {
+          "valor": "G2",
+          "cantidadOcurrenciasAlmacenadas": 10,
+          "tipoTarea": {
+            "cubos": [
+              {
+                "valor": "T2",
+                "cantidadOcurrenciasAlmacenadas": 10,
+                "factorias": {
+                  "doc_count_error_upper_bound": 0,
+                  "sum_other_doc_count": 0,
+                  "cubos": [
+                    {
+                      "valor": "FAC2",
+                      "cantidadOcurrenciasAlmacenadas": 6,
+                      "equipos": {
+                        "doc_count_error_upper_bound": 0,
+                        "sum_other_doc_count": 0,
+                        "cubos": [
+                          {
+                            "valor": "E2",
+                            "cantidadOcurrenciasAlmacenadas": 6,
+                            "tecnico": {
+                              "doc_count_error_upper_bound": 0,
+                              "sum_other_doc_count": 0,
+                              "cubos": [
+                                {
+                                  "valor": "TEC3",
+                                  "cantidadOcurrenciasAlmacenadas": 6
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "valor": "FAC1",
+                      "cantidadOcurrenciasAlmacenadas": 4,
+                      "equipos": {
+                        "doc_count_error_upper_bound": 0,
+                        "sum_other_doc_count": 0,
+                        "cubos": [
+                          {
+                            "valor": "E1",
+                            "cantidadOcurrenciasAlmacenadas": 4,
+                            "tecnico": {
+                              "doc_count_error_upper_bound": 0,
+                              "sum_other_doc_count": 0,
+                              "cubos": [
+                                {
+                                  "valor": "TEC2",
+                                  "cantidadOcurrenciasAlmacenadas": 4
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "valor": "G1",
+          "cantidadOcurrenciasAlmacenadas": 4,
+          "tipoTarea": {
+            "cubos": [
+              {
+                "valor": "T1",
+                "cantidadOcurrenciasAlmacenadas": 4,
+                "factorias": {
+                  "cubos": [
+                    {
+                      "valor": "FAC1",
+                      "cantidadOcurrenciasAlmacenadas": 4,
+                      "equipos": {
+                        "cubos": [
+                          {
+                            "valor": "E1",
+                            "cantidadOcurrenciasAlmacenadas": 4,
+                            "tecnico": {
+                              "cubos": [
+                                {
+                                  "valor": "TEC1",
+                                  "cantidadOcurrenciasAlmacenadas": 4
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "coincidencias": [],
+  "cantidadOcurrenciasAlmacenadas": 14
+}

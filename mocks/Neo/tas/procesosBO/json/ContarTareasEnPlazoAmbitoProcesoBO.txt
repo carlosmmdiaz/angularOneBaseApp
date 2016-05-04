@@ -1,0 +1,57 @@
+{
+  "tiempoConsumido": 2,
+  "agregaciones": {
+    "procesosBO": {
+      "cubos": [
+        {
+          "valor": "P00000000007",
+          "cantidadOcurrenciasAlmacenadas": 3,
+          "fases": {
+            "cubos": [
+              {
+                "valor": "F2",
+                "cantidadOcurrenciasAlmacenadas": 3,
+                "tipoTarea": {
+                  "doc_count_error_upper_bound": 0,
+                  "sum_other_doc_count": 0,
+                  "cubos": [
+                    {
+                      "valor": "T2",
+                      "cantidadOcurrenciasAlmacenadas": 3
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "valor": "P00000000006",
+          "cantidadOcurrenciasAlmacenadas": 2,
+          "fases": {
+            "cubos": [
+              {
+                "valor": "F1",
+                "cantidadOcurrenciasAlmacenadas": 2,
+                "tipoTarea": {
+                  "cubos": [
+                    {
+                      "valor": "T1",
+                      "cantidadOcurrenciasAlmacenadas": 1
+                    },
+                    {
+                      "valor": "T2",
+                      "cantidadOcurrenciasAlmacenadas": 1
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "coincidencias": [],
+  "cantidadOcurrenciasAlmacenadas": 5
+}

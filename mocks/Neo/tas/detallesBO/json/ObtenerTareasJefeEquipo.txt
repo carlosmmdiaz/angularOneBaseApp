@@ -1,0 +1,2825 @@
+{
+  "tiempoConsumido": 1,
+  "coincidencias": [
+    {
+      "_id": "IDSubprocesoTarea00020",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00020",
+        "nombreSubproceso":"0000100000061802240000000015708177550510ZMTN115RG2",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM001",
+            "nombre": "SELLAR"
+          },
+          "tecnico": {
+            "id": "A123456",
+            "nombre": "Carlos"
+          },
+          "tipoTarea": {
+            "id": "TASK002",
+            "nombre": "Quitar sellos"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00018",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00018",
+        "nombreSubproceso": "TASK001",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM001",
+            "nombre": "SELLAR"
+          },
+          "tecnico": {
+            "id": "A125335",
+            "nombre": "USUARIO 147 EPI"
+          },
+          "tipoTarea": {
+            "id": "TASK001",
+            "nombre": "Poner sellos"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "PA",
+            "nombre": "Suspendida"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00013",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00013",
+        "nombreSubproceso": "TASK003",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM002",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK003",
+            "nombre": "Pintar Carátula"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "PA",
+            "nombre": "Suspendida"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00025",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00025",
+        "nombreSubproceso": "TASK001",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT002",
+            "nombre": "ALTRAN-F"
+          },
+          "equipo": {
+            "id": "TEAM003",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A125342",
+            "nombre": "USUARIO 154 EPI"
+          },
+          "tipoTarea": {
+            "id": "TASK004",
+            "nombre": "Pintar Interior"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00006",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00006",
+        "nombreSubproceso": "TASK004",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT002",
+            "nombre": "ALTRAN-F"
+          },
+          "equipo": {
+            "id": "TEAM003",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK004",
+            "nombre": "Pintar Interior"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "DI",
+            "nombre": "Iniciada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00019",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00019",
+        "nombreSubproceso": "TASK001",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM001",
+            "nombre": "SELLAR"
+          },
+          "tecnico": {
+            "id": "A125335",
+            "nombre": "USUARIO 147 EPI"
+          },
+          "tipoTarea": {
+            "id": "TASK002",
+            "nombre": "Quitar sellos"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "PA",
+            "nombre": "Suspendida"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00014",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00014",
+        "nombreSubproceso": "TASK004",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT002",
+            "nombre": "ALTRAN-F"
+          },
+          "equipo": {
+            "id": "TEAM003",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK004",
+            "nombre": "Pintar Interior"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "PA",
+            "nombre": "Suspendida"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00026",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00026",
+        "nombreSubproceso": "TASK001",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT002",
+            "nombre": "ALTRAN-F"
+          },
+          "equipo": {
+            "id": "TEAM003",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A121673",
+            "nombre": "USUARIO 59 EPI"
+          },
+          "tipoTarea": {
+            "id": "TASK005",
+            "nombre": "Pintar Contraportada"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00002",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00002",
+        "nombreSubproceso": "TASK002",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM001",
+            "nombre": "SELLAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK001",
+            "nombre": "Poner sellos"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "DI",
+            "nombre": "Iniciada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00007",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00007",
+        "nombreSubproceso": "TASK005",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT002",
+            "nombre": "ALTRAN-F"
+          },
+          "equipo": {
+            "id": "TEAM003",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK004",
+            "nombre": "Pintar Interior"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "DI",
+            "nombre": "Iniciada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00015",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00015",
+        "nombreSubproceso": "TASK004",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT002",
+            "nombre": "ALTRAN-F"
+          },
+          "equipo": {
+            "id": "TEAM003",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK004",
+            "nombre": "Pintar Interior"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "PA",
+            "nombre": "Suspendida"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00010",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00010",
+        "nombreSubproceso": "TASK002",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM001",
+            "nombre": "SELLAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK001",
+            "nombre": "Poner sellos"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "PA",
+            "nombre": "Suspendida"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00027",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00027",
+        "nombreSubproceso": "TASK001",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT002",
+            "nombre": "ALTRAN-F"
+          },
+          "equipo": {
+            "id": "TEAM003",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A123456",
+            "nombre": "Carlos"
+          },
+          "tipoTarea": {
+            "id": "TASK005",
+            "nombre": "Pintar Contraportada"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00022",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00022",
+        "nombreSubproceso": "TASK001",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM001",
+            "nombre": "SELLAR"
+          },
+          "tecnico": {
+            "id": "A125336",
+            "nombre": "USUARIO 148 EPI"
+          },
+          "tipoTarea": {
+            "id": "TASK001",
+            "nombre": "Poner sellos"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00008",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00008",
+        "nombreSubproceso": "TASK005",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT002",
+            "nombre": "ALTRAN-F"
+          },
+          "equipo": {
+            "id": "TEAM003",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK005",
+            "nombre": "Pintar Contraportada"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "DI",
+            "nombre": "Iniciada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00003",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00003",
+        "nombreSubproceso": "TASK001",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM001",
+            "nombre": "SELLAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK002",
+            "nombre": "Quitar sellos"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "DI",
+            "nombre": "Iniciada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00016",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00016",
+        "nombreSubproceso": "TASK005",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT002",
+            "nombre": "ALTRAN-F"
+          },
+          "equipo": {
+            "id": "TEAM003",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK005",
+            "nombre": "Pintar Contraportada"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "PA",
+            "nombre": "Suspendida"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00011",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00011",
+        "nombreSubproceso": "TASK001",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM001",
+            "nombre": "SELLAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK002",
+            "nombre": "Quitar sellos"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "PA",
+            "nombre": "Suspendida"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00023",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00023",
+        "nombreSubproceso": "TASK001",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM001",
+            "nombre": "SELLAR"
+          },
+          "tecnico": {
+            "id": "A125336",
+            "nombre": "USUARIO 148 EPI"
+          },
+          "tipoTarea": {
+            "id": "TASK002",
+            "nombre": "Quitar sellos"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00009",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00009",
+        "nombreSubproceso": "TASK001",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT002",
+            "nombre": "ALTRAN-F"
+          },
+          "equipo": {
+            "id": "TEAM003",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK005",
+            "nombre": "Pintar Contraportada"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "DI",
+            "nombre": "Iniciada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00004",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00004",
+        "nombreSubproceso": "TASK003",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM002",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK003",
+            "nombre": "Pintar Carátula"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "DI",
+            "nombre": "Iniciada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00017",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00017",
+        "nombreSubproceso": "TASK005",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT002",
+            "nombre": "ALTRAN-F"
+          },
+          "equipo": {
+            "id": "TEAM003",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK005",
+            "nombre": "Pintar Contraportada"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "PA",
+            "nombre": "Suspendida"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00012",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00012",
+        "nombreSubproceso": "TASK003",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM002",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK003",
+            "nombre": "Pintar Carátula"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "PA",
+            "nombre": "Suspendida"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00024",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00024",
+        "nombreSubproceso": "TASK001",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM002",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A125337",
+            "nombre": "USUARIO 149 EPI"
+          },
+          "tipoTarea": {
+            "id": "TASK003",
+            "nombre": "Pintar Carátula"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "IDSubprocesoTarea00005",
+      "_documento": {
+        "idSubproceso": "IDSubprocesoTarea00005",
+        "nombreSubproceso": "TASK004",
+        "descripcionSubproceso": "Poner sellos",
+        "subtipoSubproceso": "OT",
+        "idProceso": "PRO001",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "SAEC",
+        "fechaCreacion": "2015-10-12 12:05:06.000000",
+        "momentoRealizacionSubproceso": "2015-10-12 12:05:07.000000",
+        "estadoSubproceso": "01",
+        "faseSubproceso": "FA001",
+        "proceso": {
+          "id": "Codigo Proceso Original",
+          "version": "01",
+          "descripcion": "Descripcion Origen",
+          "estado": "EC",
+          "centroGestor": "12341234",
+          "usuarioGestor": "A000001",
+          "primerTitular": {
+            "id": "1541541",
+            "nombre": "Nombre cliente Origen"
+          },
+          "idProducto": "123456",
+          "nombreProducto": "QTA",
+          "identificadorExpediente": "1234",
+          "importeOperacion": "+12345678901234528112",
+          "procedencia": "A"
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestion de altas",
+          "fechaAntesObjetivo": "2015-10-12 17:06:07.000000",
+          "fechaObjetivo": "2015-10-12 18:06:07.000000",
+          "fechaRecepcionTarea": "2015-10-12 15:06:07.000000",
+          "fechaRetrasoObjetivo": "2015-10-12 19:06:07.000000",
+          "fechaCambioEstado": "2015-10-09 11:43:51.000131",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM002",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A000000",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK003",
+            "nombre": "Pintar Carátula"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "DI",
+            "nombre": "Iniciada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "TM1444924593114",
+      "_documento": {
+        "idSubproceso": "TM1444924593114",
+        "nombreSubproceso": "",
+        "descripcionSubproceso": "Tarea Manual",
+        "subtipoSubproceso": "OT",
+        "idProceso": "TM",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "",
+        "fechaCreacion": "2015-10-15 17:56:32.000000",
+        "momentoRealizacionSubproceso": "2015-10-19 09:49:04.000000",
+        "estadoSubproceso": "02",
+        "faseSubproceso": "",
+        "proceso": {
+          "id": "",
+          "version": "",
+          "descripcion": "",
+          "estado": "",
+          "centroGestor": "",
+          "usuarioGestor": "A125332",
+          "primerTitular": {
+            "id": "",
+            "nombre": ""
+          },
+          "idProducto": "",
+          "nombreProducto": "",
+          "identificadorExpediente": "",
+          "importeOperacion": "+00000000000000028112",
+          "procedencia": ""
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestión de altas",
+          "fechaAntesObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaRecepcionTarea": "2015-10-19 09:49:04.000000",
+          "fechaRetrasoObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaCambioEstado": "2015-10-19 09:49:04.000000",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM002",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A125336",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK002",
+            "nombre": "Quitar sellos"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "01",
+            "nombre": "Alta"
+          }
+        }
+      }
+    },
+    {
+      "_id": "TM1444996263472",
+      "_documento": {
+        "idSubproceso": "TM1444996263472",
+        "nombreSubproceso": "",
+        "descripcionSubproceso": "Tarea Manual",
+        "subtipoSubproceso": "OT",
+        "idProceso": "TM",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "",
+        "fechaCreacion": "2015-10-16 13:51:03.000000",
+        "momentoRealizacionSubproceso": "2015-10-16 13:51:03.000000",
+        "estadoSubproceso": "02",
+        "faseSubproceso": "",
+        "proceso": {
+          "id": "",
+          "version": "",
+          "descripcion": "",
+          "estado": "",
+          "centroGestor": "",
+          "usuarioGestor": "A125336",
+          "primerTitular": {
+            "id": "",
+            "nombre": ""
+          },
+          "idProducto": "",
+          "nombreProducto": "",
+          "identificadorExpediente": "",
+          "importeOperacion": "+00000000000000028112",
+          "procedencia": ""
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestión de altas",
+          "fechaAntesObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaRecepcionTarea": "2015-10-16 13:51:03.000000",
+          "fechaRetrasoObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaCambioEstado": "2015-10-16 13:51:03.000000",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM001",
+            "nombre": "SELLAR"
+          },
+          "tecnico": {
+            "id": "A125336",
+            "nombre": "USUARIO 148 EPI"
+          },
+          "tipoTarea": {
+            "id": "TASK002",
+            "nombre": "Quitar sellos"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "01",
+            "nombre": "Alta"
+          }
+        }
+      }
+    },
+    {
+      "_id": "TM1444997696020",
+      "_documento": {
+        "idSubproceso": "TM1444997696020",
+        "nombreSubproceso": "",
+        "descripcionSubproceso": "Tarea Manual",
+        "subtipoSubproceso": "OT",
+        "idProceso": "TM",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "",
+        "fechaCreacion": "2015-10-16 14:14:55.000000",
+        "momentoRealizacionSubproceso": "2015-10-19 09:58:50.000000",
+        "estadoSubproceso": "02",
+        "faseSubproceso": "",
+        "proceso": {
+          "id": "",
+          "version": "",
+          "descripcion": "",
+          "estado": "",
+          "centroGestor": "",
+          "usuarioGestor": "A125332",
+          "primerTitular": {
+            "id": "",
+            "nombre": ""
+          },
+          "idProducto": "",
+          "nombreProducto": "",
+          "identificadorExpediente": "",
+          "importeOperacion": "+00000000000000028112",
+          "procedencia": ""
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestión de altas",
+          "fechaAntesObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaRecepcionTarea": "2015-10-19 09:58:50.000000",
+          "fechaRetrasoObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaCambioEstado": "2015-10-19 09:58:50.000000",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM001",
+            "nombre": "SELLAR"
+          },
+          "tecnico": {
+            "id": "A125279",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK001",
+            "nombre": "Poner sellos"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "01",
+            "nombre": "Alta"
+          }
+        }
+      }
+    },
+    {
+      "_id": "TM1445244281277",
+      "_documento": {
+        "idSubproceso": "TM1445244281277",
+        "nombreSubproceso": "",
+        "descripcionSubproceso": "Tarea Manual",
+        "subtipoSubproceso": "OT",
+        "idProceso": "TM",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "",
+        "fechaCreacion": "2015-10-19 10:44:41.000000",
+        "momentoRealizacionSubproceso": "2015-10-19 10:44:41.000000",
+        "estadoSubproceso": "02",
+        "faseSubproceso": "",
+        "proceso": {
+          "id": "",
+          "version": "",
+          "descripcion": "",
+          "estado": "",
+          "centroGestor": "",
+          "usuarioGestor": "A125335",
+          "primerTitular": {
+            "id": "",
+            "nombre": ""
+          },
+          "idProducto": "",
+          "nombreProducto": "",
+          "identificadorExpediente": "",
+          "importeOperacion": "+00000000000000028112",
+          "procedencia": ""
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestión de altas",
+          "fechaAntesObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaRecepcionTarea": "2015-10-19 10:44:41.000000",
+          "fechaRetrasoObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaCambioEstado": "2015-10-19 10:44:41.000000",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "001",
+            "nombre": "Sellado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM001",
+            "nombre": "SELLAR"
+          },
+          "tecnico": {
+            "id": "A125335",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK002",
+            "nombre": "Quitar sellos"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "01",
+            "nombre": "Alta"
+          }
+        }
+      }
+    },
+    {
+      "_id": "TM1445262087741",
+      "_documento": {
+        "idSubproceso": "TM1445262087741",
+        "nombreSubproceso": "",
+        "descripcionSubproceso": "Tarea Manual",
+        "subtipoSubproceso": "OT",
+        "idProceso": "TM",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "",
+        "fechaCreacion": "2015-10-19 15:41:27.000000",
+        "momentoRealizacionSubproceso": "2015-10-19 15:41:27.000000",
+        "estadoSubproceso": "02",
+        "faseSubproceso": "",
+        "proceso": {
+          "id": "",
+          "version": "",
+          "descripcion": "",
+          "estado": "",
+          "centroGestor": "",
+          "usuarioGestor": "A125337",
+          "primerTitular": {
+            "id": "",
+            "nombre": ""
+          },
+          "idProducto": "",
+          "nombreProducto": "",
+          "identificadorExpediente": "",
+          "importeOperacion": "+00000000000000028112",
+          "procedencia": ""
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestión de altas",
+          "fechaAntesObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaRecepcionTarea": "2015-10-19 15:41:27.000000",
+          "fechaRetrasoObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaCambioEstado": "2015-10-19 15:41:27.000000",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM002",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A125337",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK003",
+            "nombre": "Pintar carátula"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "02",
+            "nombre": "Normal"
+          }
+        }
+      }
+    },
+    {
+      "_id": "TM1445263006754",
+      "_documento": {
+        "idSubproceso": "TM1445263006754",
+        "nombreSubproceso": "",
+        "descripcionSubproceso": "Tarea Manual",
+        "subtipoSubproceso": "OT",
+        "idProceso": "TM",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "",
+        "fechaCreacion": "2015-10-19 15:56:46.000000",
+        "momentoRealizacionSubproceso": "2015-10-19 15:56:46.000000",
+        "estadoSubproceso": "02",
+        "faseSubproceso": "",
+        "proceso": {
+          "id": "",
+          "version": "",
+          "descripcion": "",
+          "estado": "",
+          "centroGestor": "",
+          "usuarioGestor": "A125337",
+          "primerTitular": {
+            "id": "",
+            "nombre": ""
+          },
+          "idProducto": "",
+          "nombreProducto": "",
+          "identificadorExpediente": "",
+          "importeOperacion": "+00000000000000028112",
+          "procedencia": ""
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestión de altas",
+          "fechaAntesObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaRecepcionTarea": "2015-10-19 15:56:46.000000",
+          "fechaRetrasoObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaCambioEstado": "2015-10-19 15:56:46.000000",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM002",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A125337",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK003",
+            "nombre": "Pintar carátula"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "01",
+            "nombre": "Alta"
+          }
+        }
+      }
+    },
+    {
+      "_id": "TM1445263682711",
+      "_documento": {
+        "idSubproceso": "TM1445263682711",
+        "nombreSubproceso": "",
+        "descripcionSubproceso": "Tarea Manual",
+        "subtipoSubproceso": "OT",
+        "idProceso": "TM",
+        "prioridadSubproceso": "02",
+        "motivoEvento": "",
+        "fechaCreacion": "2015-10-19 16:08:02.000000",
+        "momentoRealizacionSubproceso": "2015-10-19 16:12:41.000000",
+        "estadoSubproceso": "02",
+        "faseSubproceso": "",
+        "proceso": {
+          "id": "",
+          "version": "",
+          "descripcion": "",
+          "estado": "",
+          "centroGestor": "",
+          "usuarioGestor": "A125337",
+          "primerTitular": {
+            "id": "",
+            "nombre": ""
+          },
+          "idProducto": "",
+          "nombreProducto": "",
+          "identificadorExpediente": "",
+          "importeOperacion": "+00000000000000028112",
+          "procedencia": ""
+        },
+        "procesoBO": {
+          "id": "PRO001",
+          "nombre": "Gestión de altas",
+          "fechaAntesObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaRecepcionTarea": "2015-10-19 16:12:41.000000",
+          "fechaRetrasoObjetivo": "2999-12-31 00:00:00.000000",
+          "fechaCambioEstado": "2015-10-19 16:12:41.000000",
+          "ambito": {
+            "id": "001",
+            "nombre": "Bankia"
+          },
+          "grupo": {
+            "id": "002",
+            "nombre": "Pintado"
+          },
+          "fase": {
+            "id": "FA001",
+            "nombre": "Fase 1"
+          },
+          "factoria": {
+            "id": "FACT001",
+            "nombre": "INDRA-F"
+          },
+          "equipo": {
+            "id": "TEAM002",
+            "nombre": "PINTAR"
+          },
+          "tecnico": {
+            "id": "A125337",
+            "nombre": "Usuario N/A"
+          },
+          "tipoTarea": {
+            "id": "TASK003",
+            "nombre": "Pintar carátula"
+          },
+          "tipoPeticion": {
+            "id": "TM",
+            "nombre": "Tarea Manual"
+          },
+          "suspension": {
+            "referencia": "",
+            "idMotivo": "",
+            "descripcion": "",
+            "justificacion": ""
+          },
+          "estado": {
+            "id": "AS",
+            "nombre": "Asignada"
+          },
+          "prioridad": {
+            "id": "01",
+            "nombre": "Alta"
+          }
+        }
+      }
+    }
+  ],
+  "cantidadOcurrenciasAlmacenadas": 32,
+  "claveContinuacion": 0,
+  "indicadorMasOcurrencias": false,
+  "cantidadOcurrenciasDevueltas": 32
+}

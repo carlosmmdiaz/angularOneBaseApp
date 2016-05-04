@@ -1,0 +1,41 @@
+{
+  "data": {
+    "modo": 0,
+    "identSCG": "D",
+    "datosPrincipales": {
+      "cobertura": "\u0000",
+      "datosFinca": {
+        "bloqueVia": "2",
+        "codigoPostal": "05444",
+        "indicadorCedulaHabitabilidad": false,
+        "indicadorCoberturaHipoteca": false,
+        "indPorcentajeAsigDirecCobertura": " ",
+        "indicadorResidenciaHabitual": false,
+        "subTipoFinca": "PI",
+        "codigoTipoNumVia": "N",
+        "escaleraVia": " ",
+        "codigoMunicipio": "051660000",
+        "nombreVia": "LAS VEGAS NEVADA",
+        "pisoVia": "2º",
+        "codigoPoblacion": "000000000",
+        "portalVia": "4",
+        "codigoProvincia": "05",
+        "puertaVia": "A",
+        "tipoFinca": "VI",
+        "tipoVia": "CL",
+        "codigoPais": "011",
+        "numeroVia": "65"
+      }
+    }
+  },
+  "stateData": {
+    "viewId": "MostrarPanelDetalleRegistralesIU",
+    "availableTransitions": {
+      "modificarDatosRegistrales": "/api/1.0/extranet/extranet/verificacionregistral/gestionar?_eventId=modificarDatosRegistrales&execution=e1s4",
+      "altaDatosRegistrales": "/api/1.0/extranet/extranet/verificacionregistral/gestionar?_eventId=altaDatosRegistrales&execution=e1s4",
+      "terminar": "/api/1.0/extranet/extranet/verificacionregistral/gestionar?_eventId=terminar&execution=e1s4",
+      "mantenerDatosSCG": "/api/1.0/extranet/extranet/verificacionregistral/gestionar?_eventId=mantenerDatosSCG&execution=e1s4",
+      "end": "/api/1.0/extranet/extranet/verificacionregistral/gestionar?_eventId=end&execution=e1s4"
+    }
+  }
+}

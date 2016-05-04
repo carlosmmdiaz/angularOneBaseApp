@@ -1,0 +1,53 @@
+{
+ "stateData": {
+    "viewId": "MostrarResultadoOperacionIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/expedientes/extranetGestorias/obtenerExpedientesPropuestas?_eventId=terminar&execution=e3s1",
+      "end": "/api/1.0/expedientes/extranetGestorias/obtenerExpedientesPropuestas?_eventId=end&execution=e3s1"
+    }
+  },
+  "data": {
+    "numeroOcurrencias": 0,
+    "vectorListaPropuestas": [
+      {
+        "nombre": "NOMBRE 001",
+        "identificador": "ID001",
+        "tipo": "TIP001",
+        "codigoDeEmpresa": "EMPRESA 001",
+        "codigoDeCentro": "CENT001",
+        "fechaInicio": {
+          "valor": "2015-10-3010.45.39"
+        },
+        "indicadorMercadoSecundario": "N",
+        "descripcionSituacion": "OK",
+        "indicadorDeMigracion": "S"
+      },
+      {
+        "nombre": "NOMBRE 002",
+        "identificador": "ID002",
+        "tipo": "TIP002",
+        "codigoDeEmpresa": "EMPRESA 002",
+        "codigoDeCentro": "CENT002",
+        "fechaInicio": {
+          "valor": "2015-10-3010.45.39"
+        },
+        "indicadorMercadoSecundario": "N",
+        "descripcionSituacion": "OK",
+        "indicadorDeMigracion": "S"
+      },
+      {
+        "nombre": "NOMBRE 003",
+        "identificador": "ID003",
+        "tipo": "TIP003",
+        "codigoDeEmpresa": "EMPRESA 003",
+        "codigoDeCentro": "CENT003",
+        "fechaInicio": {
+          "valor": "2015-10-30 10:45:39"
+        },
+        "indicadorMercadoSecundario": "N",
+        "descripcionSituacion": "OK",
+        "indicadorDeMigracion": "S"
+      }
+    ]
+  }
+}

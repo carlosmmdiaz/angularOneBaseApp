@@ -1,0 +1,81 @@
+{
+   "stateData": {
+       "viewId": "mostrarDatosPagoImpuestosExpedienteIU",
+       "availableTransitions": {
+           "terminar": "/api/1.0/extranetPostFormalizacion/extranet/obtenerPagosImpuestosExpediente?_eventId=terminar&execution=e1s1",
+           "end": "/api/1.0/extranetPostFormalizacion/extranet/obtenerPagosImpuestosExpediente?_eventId=end&execution=e1s1"
+       }
+   },
+   "data": {
+       "identificadorGestoria": "89608",
+       "nombreGestoria": "COMUNIDAD JORDANA2",
+       "importeProvisionAbonoNotario": {
+           "importeConSigno": 23588,
+           "numeroDecimalesImporte": "2",
+           "moneda": {
+               "divisa": "281",
+               "digitoControlDivisa": "1"
+           },
+           "nombreMoneda": "EUR"
+       },
+        "importeTotalPagos": {
+            "importeConSigno": 55000,
+            "numeroDecimalesImporte": "2",
+            "moneda": {
+                "divisa": "281",
+                "digitoControlDivisa": "1"
+            },
+            "nombreMoneda": "EUR"
+        },
+       "pagosImpuestos": [
+           {
+               "identificadorPago": "12",
+               "codigoEstadoPago": "RE",
+               "nombreEstadoPago": "Realizado",
+               "fechaSolicitudPago": {
+                   "valor": "2016-03-03"
+               },
+               "fechaPresentacionPago": {
+                   "valor": ""
+               },
+               "tipoImpuesto": "LI",
+               "nombreTipoImpuesto": "Liquidación de gananciales (sujeto a AJD)",
+               "importePago": {
+                   "importeConSigno": 6676,
+                   "numeroDecimalesImporte": "2",
+                   "moneda": {
+                       "divisa": "281",
+                       "digitoControlDivisa": "1"
+                   },
+                   "nombreMoneda": "EUR"
+               },
+               "motivoDesviacion": " "
+           },
+           {
+               "identificadorPago": "13",
+               "codigoEstadoPago": "RE",
+               "nombreEstadoPago": "Realizado",
+               "fechaSolicitudPago": {
+                   "valor": "2016-03-03"
+               },
+               "fechaPresentacionPago": {
+                   "valor": "2016-01-05"
+               },
+               "tipoImpuesto": "CR",
+               "nombreTipoImpuesto": "Compraventa (sujeta a IVA, por renuncia a la exención de IVA)",
+               "importePago": {
+                   "importeConSigno": 16912,
+                   "numeroDecimalesImporte": "2",
+                   "moneda": {
+                       "divisa": "281",
+                       "digitoControlDivisa": "1"
+                   },
+                   "nombreMoneda": "EUR"
+               },
+               "motivoDesviacion": "PREUBA"
+           }
+       ],
+       "clavePaginacionOut": "",
+       "indicadorHayMasPagosImpuestos": false
+   }
+}

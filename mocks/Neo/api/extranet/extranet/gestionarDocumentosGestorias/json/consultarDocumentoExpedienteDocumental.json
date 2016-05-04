@@ -1,0 +1,99 @@
+{
+  "data": {
+    "ficheroInyectado": {
+      "numeroFicherosCompletar": "1",
+      "estadoInstanciaDocumento": "EE",
+      "ficheros": [{
+        "localizadorFichero": " ",
+        "nombrefichero": "Certificado de saldo de cargas pendientes",
+        "idDocGestorDocOut": "UJBAJNFEUQBLH0HM8A1UO7H4GL2SGML3V3L0Q2Q8",
+        "estadoFichero": "EE",
+        "motivoRechazoFichero": " ",
+        "observacionesRechazoFichero": " ",
+        "acciones": ["AN", "VI", "DE", "IM", "EM", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+      }, {
+        "localizadorFichero": " ",
+        "nombrefichero": "Certificado de saldo de cargas pendientes",
+        "idDocGestorDocOut": "UJBAJNFEUQBLH0HM8A1UO7H4GE5SAVRT4UK8H0JP",
+        "estadoFichero": "EE",
+        "motivoRechazoFichero": " ",
+        "observacionesRechazoFichero": " ",
+        "acciones": ["AN", "VI", "DE", "IM", "EM", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+      }, {
+        "localizadorFichero": " ",
+        "nombrefichero": " ",
+        "idDocGestorDocOut": " ",
+        "estadoFichero": " ",
+        "motivoRechazoFichero": " ",
+        "observacionesRechazoFichero": " ",
+        "acciones": [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+      }, {
+        "localizadorFichero": " ",
+        "nombrefichero": " ",
+        "idDocGestorDocOut": " ",
+        "estadoFichero": " ",
+        "motivoRechazoFichero": " ",
+        "observacionesRechazoFichero": " ",
+        "acciones": [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+      }, {
+        "localizadorFichero": " ",
+        "nombrefichero": " ",
+        "idDocGestorDocOut": " ",
+        "estadoFichero": " ",
+        "motivoRechazoFichero": " ",
+        "observacionesRechazoFichero": " ",
+        "acciones": [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+      }, {
+        "localizadorFichero": " ",
+        "nombrefichero": " ",
+        "idDocGestorDocOut": " ",
+        "estadoFichero": " ",
+        "motivoRechazoFichero": " ",
+        "observacionesRechazoFichero": " ",
+        "acciones": [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+      }, {
+        "localizadorFichero": " ",
+        "nombrefichero": " ",
+        "idDocGestorDocOut": " ",
+        "estadoFichero": " ",
+        "motivoRechazoFichero": " ",
+        "observacionesRechazoFichero": " ",
+        "acciones": [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+      }, {
+        "localizadorFichero": " ",
+        "nombrefichero": " ",
+        "idDocGestorDocOut": " ",
+        "estadoFichero": " ",
+        "motivoRechazoFichero": " ",
+        "observacionesRechazoFichero": " ",
+        "acciones": [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+      }, {
+        "localizadorFichero": " ",
+        "nombrefichero": " ",
+        "idDocGestorDocOut": " ",
+        "estadoFichero": " ",
+        "motivoRechazoFichero": " ",
+        "observacionesRechazoFichero": " ",
+        "acciones": [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+      }, {
+        "localizadorFichero": " ",
+        "nombrefichero": " ",
+        "idDocGestorDocOut": " ",
+        "estadoFichero": " ",
+        "motivoRechazoFichero": " ",
+        "observacionesRechazoFichero": " ",
+        "acciones": [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+      }]
+    }
+  },
+  "stateData": {
+    "viewId": "VisualizarDocumentoIUViewIU",
+    "availableTransitions": {
+      "adjuntarDocumentoEnGestorDocumental": "/api/1.0/extranet/extranet/gestionarDocumentosGestorias?_eventId=adjuntarDocumentoEnGestorDocumental&execution=e13s2",
+      "terminar": "/api/1.0/extranet/extranet/gestionarDocumentosGestorias?_eventId=terminar&execution=e13s2",
+      "consultarDocumentoExpedienteDocumental": "/api/1.0/extranet/extranet/gestionarDocumentosGestorias?_eventId=consultarDocumentoExpedienteDocumental&execution=e13s2",
+      "end": "/api/1.0/extranet/extranet/gestionarDocumentosGestorias?_eventId=end&execution=e13s2",
+      "eliminarDocumentoEnGestorDocumental": "/api/1.0/extranet/extranet/gestionarDocumentosGestorias?_eventId=eliminarDocumentoEnGestorDocumental&execution=e13s2"
+    }
+  }
+}

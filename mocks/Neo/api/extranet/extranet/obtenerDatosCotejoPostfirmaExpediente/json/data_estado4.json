@@ -1,0 +1,296 @@
+{
+  "stateData": {
+    "viewId": "mostrarDatosCotejoPostFirmaExpedienteIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/extranetPostFormalizacion/extranet/obtenerDatosCotejoPostFirmaExpediente?_eventId=terminar&execution=e8s1",
+      "end": "/api/1.0/extranetPostFormalizacion/extranet/obtenerDatosCotejoPostFirmaExpediente?_eventId=end&execution=e8s1"
+    }
+  },
+  "data": {
+    "codigoEstado": "4",
+    "numeroProtocolo": "0",
+    "identificadorFedatario": "541",
+    "nombreFedatario": "Perico Delgado",
+    "listadoDatosIntervinientes": [
+      {
+        "nombre": "PEDRO PEREZ",
+        "tipoDocumento": "1",
+        "indicadorErrorTipoDocumento": false,
+        "numeroDocumento": "000000007F",
+        "indicadorErrorNumeroDocumento": false,
+        "tipoInterviniente": "020",
+        "indicadorErrorTipoInterviniente": false,
+        "indicadorInterviniente": false
+      }
+    ],
+    "listadoIntervinienteCotejoSistema": [
+      {
+        "nombre": "PEDRO PEREZ",
+        "tipoDocumento": "1",
+        "numeroDocumento": "000000007F",
+        "tipoInterviniente": "020",
+        "numeroOrdenCliente": 1,
+        "numeroSubordenCliente": 1
+      }
+    ],
+    "listadoDatosHipotecantesNoDeudores": [
+      {
+        "nombre": "HOLONDRO ROFOLSA CASIDO",
+        "tipoDocumento": "1",
+        "numeroDocumento": "7F"
+      }
+    ],
+    "condicionesEconomicasDatosDocumento": {
+      "fechaFirma": {
+        "valor": "2016-02-05"
+      },
+      "importeOperacion": {
+        "importeConSigno": 30000000,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "tipoAmortizacion": "031",
+      "pediodicidadPagoInteres": {
+        "cantidad": 1,
+        "unidadDeMedidaDeTiempo": "100"
+      },
+      "periodicidadPagoAmortizacion": {
+        "cantidad": 1,
+        "unidadDeMedidaDeTiempo": "100"
+      },
+      "tasaAnualEquivalente": {
+        "porcentaje": 337595,
+        "numDecimales": "5"
+      },
+      "tipoInteres": "V",
+      "interesContrato": {
+        "porcentaje": 0,
+        "numDecimales": "0"
+      },
+      "periodosTipoFijo": {
+        "cantidad": 6,
+        "unidadDeMedidaDeTiempo": "100"
+      },
+      "tipoInteresVariable": {
+        "porcentaje": 23,
+        "numDecimales": "1"
+      },
+      "periodoVariable": {
+        "cantidad": 1,
+        "unidadDeMedidaDeTiempo": "100"
+      },
+      "indiceReferencia": "EURBO",
+      "diferencial": {
+        "porcentaje": 32,
+        "numDecimales": "1"
+      },
+      "periodicidadRevisionTipoInteres": {
+        "cantidad": 6,
+        "unidadDeMedidaDeTiempo": "100"
+      },
+      "comisionApertura": {
+        "porcentaje": 12,
+        "numDecimales": "1"
+      },
+      "importeMinimoComisionApertura": {
+        "importeConSigno": 50000,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "comisionEstudio": {
+        "porcentaje": 0,
+        "numDecimales": "0"
+      },
+      "importeMinimoComisionEstudio": {
+        "importeConSigno": 0,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "comisionModificacion": {
+        "porcentaje": 2,
+        "numDecimales": "0"
+      },
+      "penalizacionAmortizacionAnticipadaParcialFijo": {
+        "porcentaje": 0,
+        "numDecimales": "0"
+      },
+      "penalizacionAmortizacionParcialVariable": {
+        "porcentaje": 5,
+        "numDecimales": "1"
+      },
+      "penalizacionAmortizacionAnticipadaTotalFijo": {
+        "porcentaje": 0,
+        "numDecimales": "0"
+      },
+      "penalizacionAmortizacionTotalVariable": {
+        "porcentaje": 5,
+        "numDecimales": "1"
+      },
+      "indicadorExpresionDemora": "I",
+      "tipoInteresDemora": {
+        "porcentaje": 6,
+        "numDecimales": "0"
+      },
+      "interesDiferido": {
+        "porcentaje": 0,
+        "numDecimales": "0"
+      }
+    },
+    "condicionesEconomicasDatosSistema": {
+      "fechaFirma": {
+        "valor": "2016-02-05"
+      },
+      "importeOperacion": {
+        "importeConSigno": 30000000,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "plazoTotal": {
+        "cantidad": 1,
+        "unidadDeMedidaDeTiempo": "100"
+      },
+      "tipoAmortizacion": "031",
+      "pediodicidadPagoInteres": {
+        "cantidad": 1,
+        "unidadDeMedidaDeTiempo": "100"
+      },
+      "periodicidadPagoAmortizacion": {
+        "cantidad": 1,
+        "unidadDeMedidaDeTiempo": "100"
+      },
+      "tasaAnualEquivalente": {
+        "porcentaje": 337595,
+        "numDecimales": "5"
+      },
+      "tipoInteres": "V",
+      "interesContrato": {
+        "porcentaje": 0,
+        "numDecimales": "0"
+      },
+      "periodosTipoFijo": {
+        "cantidad": 6,
+        "unidadDeMedidaDeTiempo": "100"
+      },
+      "tipoInteresVariable": {
+        "porcentaje": 23,
+        "numDecimales": "1"
+      },
+      "periodoVariable": {
+        "cantidad": 1,
+        "unidadDeMedidaDeTiempo": "100"
+      },
+      "indiceReferencia": "EURBO",
+      "diferencial": {
+        "porcentaje": 32,
+        "numDecimales": "1"
+      },
+      "periodicidadRevisionTipoInteres": {
+        "cantidad": 6,
+        "unidadDeMedidaDeTiempo": "100"
+      },
+      "comisionApertura": {
+        "porcentaje": 12,
+        "numDecimales": "1"
+      },
+      "importeMinimoComisionApertura": {
+        "importeConSigno": 50000,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "comisionEstudio": {
+        "porcentaje": 0,
+        "numDecimales": "0"
+      },
+      "importeMinimoComisionEstudio": {
+        "importeConSigno": 0,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "comisionModificacion": {
+        "porcentaje": 2,
+        "numDecimales": "0"
+      },
+      "penalizacionAmortizacionAnticipadaParcialFijo": {
+        "porcentaje": 0,
+        "numDecimales": "0"
+      },
+      "penalizacionAmortizacionParcialVariable": {
+        "porcentaje": 5,
+        "numDecimales": "1"
+      },
+      "penalizacionAmortizacionAnticipadaTotalFijo": {
+        "porcentaje": 0,
+        "numDecimales": "0"
+      },
+      "penalizacionAmortizacionTotalVariable": {
+        "porcentaje": 5,
+        "numDecimales": "1"
+      },
+      "indicadorExpresionDemora": "I",
+      "tipoInteresDemora": {
+        "porcentaje": 6,
+        "numDecimales": "0"
+      },
+      "interesDiferido": {
+        "porcentaje": 0,
+        "numDecimales": "0"
+      }
+    },
+    "erroresCotejoCondicionesEconomicas": {
+      "indicadorErrorFechaFirma": true,
+      "indicadorErrorImporteOperacion": false,
+      "indicadorErrorPlazoTotal": false,
+      "indicadorErrorTipoAmortizacion": false,
+      "indicadorErrorPeriodicidadPagoInteres": false,
+      "indicadorErrorPeriodicidadPagoAmortizacion": false,
+      "indicadorErrorTasaAnualEquivalente": false,
+      "indicadorErrorTipoInteres": false,
+      "indicadorErrorIndiceReferencia": false,
+      "indicadorErrorDiferencial": false,
+      "indicadorErrorTipoComisionApertura": false,
+      "indicadorErrorMinimoComisionApertura": false,
+      "indicadorErrorComisionEstudio": false,
+      "indicadorErrorImporteMinimoComisionEstudio": true,
+      "indicadorErrorComisionModificacion": false,
+      "indicadorErrorTipoInteresDemora": false,
+      "indicadorErrorInteresDiferido": false,
+      "indicadorErrorInteresContrato": false,
+      "indicadorErrorPeriodosTipoFijo": false,
+      "indicadorErrorTipoInteresVariable": false,
+      "indicadorErrorPeriodoVariable": false,
+      "indicadorErrorPeriodicidadRevisionTipoInteres": false,
+      "indicadorErrorPenalizacionAmortizacionAnticipadaParcialFijo": false,
+      "indicadorErrorPenalizacionAmortizacionParcialVariable": false,
+      "indicadorErrorPenalizacionAmortizacionAnticipadaTotalFijo": false,
+      "indicadorErrorPenalizacionAmortizacionTotalVariable": false,
+      "indicadorErrorIndicadorExpresionDemora": false
+    },
+    "indicadorIntervinienteSistema": true,
+    "indicadorIntervinienteCopiaSimple": true,
+    "observaciones": "adasasdfa",
+    "resultadoCotejo": "M",
+    "indicadorCorrecionRealizada": false,
+    "indicadorCorrecionDisponible": false,
+    "numeroOcurrenciasIntervientesSistema": 1,
+    "numeroOcurrenciasHipotecantesNoDeudores": 1,
+    "numeroOcurrenciasIntervienteCopiaSimple": 1
+  }
+}

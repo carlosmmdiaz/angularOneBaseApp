@@ -1,0 +1,43 @@
+[ {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "A",
+  "DESCORTA" : "Cancelar o posponer a la hipoteca",
+  "DESLARGA" : "Cancelar o posponer a la hipoteca"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "B",
+  "DESCORTA" : "Valoración de riesgos",
+  "DESLARGA" : "Valoración de riesgos"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "C",
+  "DESCORTA" : "Valoración A.J",
+  "DESLARGA" : "Valoración A.J."
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "D",
+  "DESCORTA" : "Obtener consentimiento terceros",
+  "DESLARGA" : "Obtener consentimiento terceros"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "E",
+  "DESCORTA" : "Obtener consentimiento conyuge",
+  "DESLARGA" : "Obtener consentimiento conyuge"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "F",
+  "DESCORTA" : "Tener en cuenta valor legal",
+  "DESLARGA" : "Tener en cuenta valor legal"
+} ]

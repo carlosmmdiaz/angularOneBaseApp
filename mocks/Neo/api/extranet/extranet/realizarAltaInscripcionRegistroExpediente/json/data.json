@@ -1,0 +1,10 @@
+{
+  "stateData": {
+    "viewId": "mostrarInscripcionRegistroExpedienteIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/realizarAltaInscripcionRegistroExpediente-flow/extranet/realizarAltaInscripcionRegistroExpediente?_eventId=terminar&execution=e1s1",
+      "end": "/api/1.0/realizarAltaInscripcionRegistroExpediente-flow/extranet/realizarAltaInscripcionRegistroExpediente?_eventId=end&execution=e1s1"
+    }
+  },
+  "data": {}
+}

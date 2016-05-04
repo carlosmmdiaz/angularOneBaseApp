@@ -1,0 +1,529 @@
+{
+  "stateData": {
+    "viewId": "MostrarResultadoOperacionIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/btb/flow/bandejaTareas/inicio?_eventId=terminar&execution=e1s1",
+      "end": "/api/1.0/btb/flow/bandejaTareas/inicio?_eventId=end&execution=e1s1"
+    }
+  },
+  "data": {
+    "perfilUsuarioAcceso": {
+      "codigoUsuarioSSA": "A125279",
+      "listaProcesos": [{
+        "codigoProceso": "01",
+        "proceso": "Nombre de proceso tarea2"
+      }, {
+        "codigoProceso": "COPROTA01",
+        "proceso": "Nombre de proceso tarea 01"
+      }, {
+        "codigoProceso": "COPROTA02",
+        "proceso": "Nombre de proceso tarea 02"
+      }, {
+        "codigoProceso": "COPROTA03",
+        "proceso": "Nombre de proceso tarea 03"
+      }, {
+        "codigoProceso": "COPROTA04",
+        "proceso": "Nombre de proceso tarea 04"
+      }, {
+        "codigoProceso": "COPROTA05",
+        "proceso": "Nombre de proceso tarea 05"
+      }, {
+        "codigoProceso": "NET",
+        "proceso": "Desde NET"
+      }, {
+        "codigoProceso": "P00001",
+        "proceso": "Proceso de Activo"
+      }, {
+        "codigoProceso": "PRO001",
+        "proceso": "Gestión de altas"
+      }, {
+        "codigoProceso": "PRO002",
+        "proceso": "Retención de clientes"
+      }, {
+        "codigoProceso": "PRO003",
+        "proceso": "Prestamo hipotecario"
+      }, {
+        "codigoProceso": "PT0001",
+        "proceso": "Nombre de proceso tarea1"
+      }, {
+        "codigoProceso": "PT0002",
+        "proceso": "Nombre de proceso tarea2"
+      }],
+      "listaTipoFases": [{
+        "codigoTipoFase": "1",
+        "tipoFase": "Prueba de insert con nextVal"
+      }, {
+        "codigoTipoFase": "10",
+        "tipoFase": "Fase 1"
+      }, {
+        "codigoTipoFase": "15",
+        "tipoFase": "Prueba de insert con nextVal"
+      }, {
+        "codigoTipoFase": "16",
+        "tipoFase": "Prueba de insert con nextVal"
+      }, {
+        "codigoTipoFase": "17",
+        "tipoFase": "Prueba de insert con nextVal"
+      }, {
+        "codigoTipoFase": "18",
+        "tipoFase": "Prueba de insert con nextVal"
+      }, {
+        "codigoTipoFase": "19",
+        "tipoFase": "Prueba de insert con nextVal"
+      }, {
+        "codigoTipoFase": "4",
+        "tipoFase": "Fase nueva 1"
+      }, {
+        "codigoTipoFase": "47",
+        "tipoFase": "Prueba de insert con nextVal"
+      }, {
+        "codigoTipoFase": "48",
+        "tipoFase": "Prueba de insert con nextVal"
+      }, {
+        "codigoTipoFase": "49",
+        "tipoFase": "Prueba de insert con nextVal"
+      }, {
+        "codigoTipoFase": "5",
+        "tipoFase": "Fase nueva 2"
+      }, {
+        "codigoTipoFase": "50",
+        "tipoFase": "Prueba de insert con nextVal"
+      }, {
+        "codigoTipoFase": "51",
+        "tipoFase": "Prueba de insert con nextVal"
+      }, {
+        "codigoTipoFase": "52",
+        "tipoFase": "Prueba de insert con nextVal"
+      }, {
+        "codigoTipoFase": "53",
+        "tipoFase": "Prueba de modificacion"
+      }, {
+        "codigoTipoFase": "6",
+        "tipoFase": "Nombre de fase proceso tarea88"
+      }, {
+        "codigoTipoFase": "FA0001",
+        "tipoFase": "Tramitación"
+      }, {
+        "codigoTipoFase": "FA0002",
+        "tipoFase": "Formalización"
+      }, {
+        "codigoTipoFase": "FA0003",
+        "tipoFase": "Post-firma"
+      }, {
+        "codigoTipoFase": "FA001",
+        "tipoFase": "Fase 1"
+      }, {
+        "codigoTipoFase": "FA002",
+        "tipoFase": "Fase 2"
+      }, {
+        "codigoTipoFase": "FA003",
+        "tipoFase": "Fase 1"
+      }, {
+        "codigoTipoFase": "FA004",
+        "tipoFase": "Fase 2"
+      }, {
+        "codigoTipoFase": "FA005",
+        "tipoFase": "Fase 1"
+      }, {
+        "codigoTipoFase": "FA006",
+        "tipoFase": "Fase 2"
+      }, {
+        "codigoTipoFase": "NET1",
+        "tipoFase": "Nueva"
+      }, {
+        "codigoTipoFase": "NET2",
+        "tipoFase": "Nueva 2"
+      }, {
+        "codigoTipoFase": "NET3",
+        "tipoFase": "Nueva 3"
+      }, {
+        "codigoTipoFase": "NET4",
+        "tipoFase": "Nueva 4"
+      }, {
+        "codigoTipoFase": "NETF1",
+        "tipoFase": "Fase NET 1"
+      }, {
+        "codigoTipoFase": "NETF2",
+        "tipoFase": "Fase NET 2"
+      }, {
+        "codigoTipoFase": "NETF3",
+        "tipoFase": "Fase NET 3"
+      }],
+      "listaTipoTareas": [{
+        "codigoTipoTarea": "C1",
+        "tipoTarea": "Cancelación manual de cargas"
+      }, {
+        "codigoTipoTarea": "C2",
+        "tipoTarea": "Cancelar posiciones refinanciadas"
+      }, {
+        "codigoTipoTarea": "CA",
+        "tipoTarea": "Enviar a elaborar carta de aval"
+      }, {
+        "codigoTipoTarea": "CC",
+        "tipoTarea": "Corregir cotejo final"
+      }, {
+        "codigoTipoTarea": "CO",
+        "tipoTarea": "Enviar a cotejar carta de aval"
+      }, {
+        "codigoTipoTarea": "D1",
+        "tipoTarea": "Grabar DEP propuesta PF"
+      }, {
+        "codigoTipoTarea": "D2",
+        "tipoTarea": "Cotejar DEP propuesta PF"
+      }, {
+        "codigoTipoTarea": "D3",
+        "tipoTarea": "Re-Cotejar DEP propuesta PF"
+      }, {
+        "codigoTipoTarea": "D4",
+        "tipoTarea": "Grabar DEP propuesta PJ"
+      }, {
+        "codigoTipoTarea": "D5",
+        "tipoTarea": "Cotejar DEP propuesta PJ"
+      }, {
+        "codigoTipoTarea": "D6",
+        "tipoTarea": "Re-Cotejar DEP propuesta PJ"
+      }, {
+        "codigoTipoTarea": "DE",
+        "tipoTarea": "Desembolso"
+      }, {
+        "codigoTipoTarea": "DI",
+        "tipoTarea": "Digitalizar documento"
+      }, {
+        "codigoTipoTarea": "DV",
+        "tipoTarea": "Digitalizar y validar documento"
+      }, {
+        "codigoTipoTarea": "EP",
+        "tipoTarea": "Tramitacion Activo EP"
+      }, {
+        "codigoTipoTarea": "ET",
+        "tipoTarea": "Alta de préstamo Vivienda"
+      }, {
+        "codigoTipoTarea": "F1",
+        "tipoTarea": "Aprobar anulación factura notario"
+      }, {
+        "codigoTipoTarea": "F2",
+        "tipoTarea": "Aprobar anulación factura impuestos"
+      }, {
+        "codigoTipoTarea": "F3",
+        "tipoTarea": "Aprobar anulación factura registro"
+      }, {
+        "codigoTipoTarea": "F4",
+        "tipoTarea": "Aprobar anulación factura otros"
+      }, {
+        "codigoTipoTarea": "F5",
+        "tipoTarea": "Aprobar anulación factura honorarios gestoría"
+      }, {
+        "codigoTipoTarea": "FA",
+        "tipoTarea": "RealizarDocumentacionYFirma"
+      }, {
+        "codigoTipoTarea": "FR",
+        "tipoTarea": "Formalizar"
+      }, {
+        "codigoTipoTarea": "GF",
+        "tipoTarea": "Autorizar ampliación de provisión de fondos"
+      }, {
+        "codigoTipoTarea": "IN",
+        "tipoTarea": "Instrumentación de la operación"
+      }, {
+        "codigoTipoTarea": "IV",
+        "tipoTarea": "Incidencia en verificación registral"
+      }, {
+        "codigoTipoTarea": "M01",
+        "tipoTarea": "Tarea manual G01"
+      }, {
+        "codigoTipoTarea": "M02",
+        "tipoTarea": "Tarea manual G02"
+      }, {
+        "codigoTipoTarea": "M03",
+        "tipoTarea": "Tarea manual G03"
+      }, {
+        "codigoTipoTarea": "M04",
+        "tipoTarea": "Tarea manual G04"
+      }, {
+        "codigoTipoTarea": "M05",
+        "tipoTarea": "Tarea manual G05"
+      }, {
+        "codigoTipoTarea": "M06",
+        "tipoTarea": "Tarea manual G06"
+      }, {
+        "codigoTipoTarea": "M1",
+        "tipoTarea": "Obtener minuta - sin gtias adicionales - sin CAFs"
+      }, {
+        "codigoTipoTarea": "M11",
+        "tipoTarea": "Tarea manual G01"
+      }, {
+        "codigoTipoTarea": "M12",
+        "tipoTarea": "Tarea manual G02"
+      }, {
+        "codigoTipoTarea": "M13",
+        "tipoTarea": "Tarea manual G03"
+      }, {
+        "codigoTipoTarea": "M14",
+        "tipoTarea": "Tarea manual G04"
+      }, {
+        "codigoTipoTarea": "M15",
+        "tipoTarea": "Tarea manual G05"
+      }, {
+        "codigoTipoTarea": "M16",
+        "tipoTarea": "Tarea manual G06"
+      }, {
+        "codigoTipoTarea": "M2",
+        "tipoTarea": "Obtener minuta - sin gtias adicionales - con CAFs"
+      }, {
+        "codigoTipoTarea": "M21",
+        "tipoTarea": "Tarea manual G01"
+      }, {
+        "codigoTipoTarea": "M22",
+        "tipoTarea": "Tarea manual G02"
+      }, {
+        "codigoTipoTarea": "M23",
+        "tipoTarea": "Tarea manual G03"
+      }, {
+        "codigoTipoTarea": "M24",
+        "tipoTarea": "Tarea manual G04"
+      }, {
+        "codigoTipoTarea": "M25",
+        "tipoTarea": "Tarea manual G05"
+      }, {
+        "codigoTipoTarea": "M26",
+        "tipoTarea": "Tarea manual G06"
+      }, {
+        "codigoTipoTarea": "M3",
+        "tipoTarea": "Obtener minuta - con gtias adicionales - sin CAFs"
+      }, {
+        "codigoTipoTarea": "M31",
+        "tipoTarea": "Tarea manual G01"
+      }, {
+        "codigoTipoTarea": "M32",
+        "tipoTarea": "Tarea manual G02"
+      }, {
+        "codigoTipoTarea": "M33",
+        "tipoTarea": "Tarea manual G03"
+      }, {
+        "codigoTipoTarea": "M34",
+        "tipoTarea": "Tarea manual G04"
+      }, {
+        "codigoTipoTarea": "M35",
+        "tipoTarea": "Tarea manual G05"
+      }, {
+        "codigoTipoTarea": "M36",
+        "tipoTarea": "Tarea manual G06"
+      }, {
+        "codigoTipoTarea": "M4",
+        "tipoTarea": "Obtener minuta - con gtias adicionales - con CAFs"
+      }, {
+        "codigoTipoTarea": "M41",
+        "tipoTarea": "Tarea manual G01"
+      }, {
+        "codigoTipoTarea": "M42",
+        "tipoTarea": "Tarea manual G02"
+      }, {
+        "codigoTipoTarea": "M43",
+        "tipoTarea": "Tarea manual G03"
+      }, {
+        "codigoTipoTarea": "M44",
+        "tipoTarea": "Tarea manual G04"
+      }, {
+        "codigoTipoTarea": "M45",
+        "tipoTarea": "Tarea manual G05"
+      }, {
+        "codigoTipoTarea": "M46",
+        "tipoTarea": "Tarea manual G06"
+      }, {
+        "codigoTipoTarea": "M51",
+        "tipoTarea": "Tarea manual G01"
+      }, {
+        "codigoTipoTarea": "M52",
+        "tipoTarea": "Tarea manual G02"
+      }, {
+        "codigoTipoTarea": "M53",
+        "tipoTarea": "Tarea manual G03"
+      }, {
+        "codigoTipoTarea": "M54",
+        "tipoTarea": "Tarea manual G04"
+      }, {
+        "codigoTipoTarea": "M55",
+        "tipoTarea": "Tarea manual G05"
+      }, {
+        "codigoTipoTarea": "M56",
+        "tipoTarea": "Tarea manual G06"
+      }, {
+        "codigoTipoTarea": "MAN001",
+        "tipoTarea": "Hacer llamada"
+      }, {
+        "codigoTipoTarea": "MANNET2",
+        "tipoTarea": "Tarea NET2"
+      }, {
+        "codigoTipoTarea": "MC",
+        "tipoTarea": "Modificar datos tras cotejo post-firma"
+      }, {
+        "codigoTipoTarea": "NETNET1",
+        "tipoTarea": "Tarea NET 1"
+      }, {
+        "codigoTipoTarea": "PET001",
+        "tipoTarea": "Resolver peticion"
+      }, {
+        "codigoTipoTarea": "PF",
+        "tipoTarea": "Post_firma"
+      }, {
+        "codigoTipoTarea": "PI",
+        "tipoTarea": "Pignorar garantías"
+      }, {
+        "codigoTipoTarea": "RC",
+        "tipoTarea": "Realizar cotejo final"
+      }, {
+        "codigoTipoTarea": "T1",
+        "tipoTarea": "Autorizar reutilización tasación"
+      }, {
+        "codigoTipoTarea": "T2",
+        "tipoTarea": "Inc. Tasacion: Registral Básica"
+      }, {
+        "codigoTipoTarea": "T3",
+        "tipoTarea": "Inc. Tasacion: Registral Auxiliares"
+      }, {
+        "codigoTipoTarea": "T4",
+        "tipoTarea": "Inc. Tasacion: Condicionantes"
+      }, {
+        "codigoTipoTarea": "T5",
+        "tipoTarea": "Inc. Tasacion: Registral+Condicionantes"
+      }, {
+        "codigoTipoTarea": "TASK001",
+        "tipoTarea": "Poner sellos"
+      }, {
+        "codigoTipoTarea": "TASK002",
+        "tipoTarea": "Quitar sellos"
+      }, {
+        "codigoTipoTarea": "TASK003",
+        "tipoTarea": "Pintar carátula"
+      }, {
+        "codigoTipoTarea": "TASK004",
+        "tipoTarea": "Pintar interior"
+      }, {
+        "codigoTipoTarea": "TASK005",
+        "tipoTarea": "Pintar contraportada"
+      }, {
+        "codigoTipoTarea": "TASK006",
+        "tipoTarea": "Archivar documento"
+      }, {
+        "codigoTipoTarea": "TASK007",
+        "tipoTarea": "Archivar DNI"
+      }, {
+        "codigoTipoTarea": "TASK008",
+        "tipoTarea": "Validar documentación"
+      }, {
+        "codigoTipoTarea": "TASK009",
+        "tipoTarea": "Enviar mail"
+      }, {
+        "codigoTipoTarea": "TASK01",
+        "tipoTarea": "Hacer comunicación"
+      }, {
+        "codigoTipoTarea": "TASK010",
+        "tipoTarea": "Enviar adjunto"
+      }, {
+        "codigoTipoTarea": "TASK011",
+        "tipoTarea": "Devolver documentación"
+      }, {
+        "codigoTipoTarea": "TASK012",
+        "tipoTarea": "Rechazar préstamo"
+      }, {
+        "codigoTipoTarea": "TASK013",
+        "tipoTarea": "Tramitar importe"
+      }, {
+        "codigoTipoTarea": "TASK014",
+        "tipoTarea": "Tramitar desembolso"
+      }, {
+        "codigoTipoTarea": "TASK015",
+        "tipoTarea": "Hacer comunicación"
+      }, {
+        "codigoTipoTarea": "TN115RG2",
+        "tipoTarea": "Verificación Registral"
+      }, {
+        "codigoTipoTarea": "TN116RIS",
+        "tipoTarea": "Instrumentación de la Operación"
+      }, {
+        "codigoTipoTarea": "TN117RG3",
+        "tipoTarea": "Tasación"
+      }, {
+        "codigoTipoTarea": "TN117RGR",
+        "tipoTarea": "Tasación"
+      }, {
+        "codigoTipoTarea": "TPT1",
+        "tipoTarea": "Tipo tarea 2"
+      }, {
+        "codigoTipoTarea": "TPT2",
+        "tipoTarea": "Tipo tarea 2"
+      }, {
+        "codigoTipoTarea": "TPT9",
+        "tipoTarea": "TIPO TAREA 9"
+      }, {
+        "codigoTipoTarea": "VA",
+        "tipoTarea": "Validar documento"
+      }, {
+        "codigoTipoTarea": "VR",
+        "tipoTarea": "Verificación Registral Finca"
+      }, {
+        "codigoTipoTarea": "VR02",
+        "tipoTarea": "Incidencia en verificación registral"
+      }],
+      "tipoRelacionUsuario": "TEC",
+      "listaAmbitos": [{
+        "codigoAmbito": "TRAMACT",
+        "ambito": "Tramitación de activo"
+      }],
+      "listaFactorias": [{
+        "codigoFactoria": "F1001",
+        "factoria": "CTA - Gestores Administrativos Reunidos"
+      }],
+      "listaEquipos": [{
+        "codigoEquipo": "E1001",
+        "equipo": "CTA - Gestores Administrativos Reunidos"
+      }],
+      "listaGrupoTareas": [{
+        "codigoGrupoTarea": "001",
+        "grupoTarea": "Sellado"
+      }, {
+        "codigoGrupoTarea": "003",
+        "grupoTarea": "Archivado"
+      }, {
+        "codigoGrupoTarea": "004",
+        "grupoTarea": "Validación"
+      }, {
+        "codigoGrupoTarea": "005",
+        "grupoTarea": "Envío"
+      }, {
+        "codigoGrupoTarea": "006",
+        "grupoTarea": "Devolución"
+      }, {
+        "codigoGrupoTarea": "007",
+        "grupoTarea": "Rechazo"
+      }, {
+        "codigoGrupoTarea": "008",
+        "grupoTarea": "Tramitación"
+      }, {
+        "codigoGrupoTarea": "AT1",
+        "grupoTarea": "Agrupación tareas 1"
+      }, {
+        "codigoGrupoTarea": "AT2",
+        "grupoTarea": "Agrupación tareas 2"
+      }, {
+        "codigoGrupoTarea": "G01",
+        "grupoTarea": "Digitalización, validación y grabación"
+      }, {
+        "codigoGrupoTarea": "G02",
+        "grupoTarea": "Cotejo"
+      }, {
+        "codigoGrupoTarea": "G03",
+        "grupoTarea": "Tramitación"
+      }, {
+        "codigoGrupoTarea": "G04",
+        "grupoTarea": "Formalización"
+      }, {
+        "codigoGrupoTarea": "G05",
+        "grupoTarea": "Operaciones especiales"
+      }, {
+        "codigoGrupoTarea": "G06",
+        "grupoTarea": "Post-firma"
+      }]
+    }
+  }
+}

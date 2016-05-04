@@ -1,0 +1,137 @@
+{
+  "tiempoConsumido": 2,
+  "agregaciones": {
+    "grupos": {
+      "cubos": [
+        {
+          "valor": "G2",
+          "cantidadOcurrenciasAlmacenadas": 4,
+          "tipoTarea": {
+            "cubos": [
+              {
+                "valor": "T2",
+                "cantidadOcurrenciasAlmacenadas": 4,
+                "factorias": {
+                  "doc_count_error_upper_bound": 0,
+                  "sum_other_doc_count": 0,
+                  "cubos": [
+                    {
+                      "valor": "FAC3",
+                      "cantidadOcurrenciasAlmacenadas": 2,
+                      "equipos": {
+                        "doc_count_error_upper_bound": 0,
+                        "sum_other_doc_count": 0,
+                        "cubos": [
+                          {
+                            "valor": "E3",
+                            "cantidadOcurrenciasAlmacenadas": 2,
+                            "tecnico": {
+                              "doc_count_error_upper_bound": 0,
+                              "sum_other_doc_count": 0,
+                              "cubos": [
+                                {
+                                  "valor": "TEC3",
+                                  "cantidadOcurrenciasAlmacenadas": 2
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "valor": "FAC1",
+                      "cantidadOcurrenciasAlmacenadas": 1,
+                      "equipos": {
+                        "doc_count_error_upper_bound": 0,
+                        "sum_other_doc_count": 0,
+                        "cubos": [
+                          {
+                            "valor": "E1",
+                            "cantidadOcurrenciasAlmacenadas": 1,
+                            "tecnico": {
+                              "doc_count_error_upper_bound": 0,
+                              "sum_other_doc_count": 0,
+                              "cubos": [
+                                {
+                                  "valor": "TEC2",
+                                  "cantidadOcurrenciasAlmacenadas": 1
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "valor": "FAC2",
+                      "cantidadOcurrenciasAlmacenadas": 1,
+                      "equipos": {
+                        "doc_count_error_upper_bound": 0,
+                        "sum_other_doc_count": 0,
+                        "cubos": [
+                          {
+                            "valor": "E2",
+                            "cantidadOcurrenciasAlmacenadas": 1,
+                            "tecnico": {
+                              "doc_count_error_upper_bound": 0,
+                              "sum_other_doc_count": 0,
+                              "cubos": [
+                                {
+                                  "valor": "TEC3",
+                                  "cantidadOcurrenciasAlmacenadas": 1
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "valor": "G1",
+          "cantidadOcurrenciasAlmacenadas": 1,
+          "tipoTarea": {
+            "cubos": [
+              {
+                "valor": "T1",
+                "cantidadOcurrenciasAlmacenadas": 1,
+                "factorias": {
+                  "cubos": [
+                    {
+                      "valor": "FAC1",
+                      "cantidadOcurrenciasAlmacenadas": 1,
+                      "equipos": {
+                        "cubos": [
+                          {
+                            "valor": "E1",
+                            "cantidadOcurrenciasAlmacenadas": 1,
+                            "tecnico": {
+                              "cubos": [
+                                {
+                                  "valor": "TEC1",
+                                  "cantidadOcurrenciasAlmacenadas": 1
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "coincidencias": [],
+  "cantidadOcurrenciasAlmacenadas": 5
+}

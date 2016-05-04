@@ -2,8 +2,9 @@
 require('./config.js');
 
 var gulp   = require('gulp'),
-    del = require('del');
+    del = require('del'),
+    clean = require('./config').clean;
 
 gulp.task('clean', function () {
-  return del(['.tmp']);
+	return del([clean.dest]);
 });

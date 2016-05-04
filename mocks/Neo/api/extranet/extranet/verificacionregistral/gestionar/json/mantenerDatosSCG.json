@@ -1,0 +1,29 @@
+{
+  "data": {
+    "identSCG": "D",
+    "datosPrincipales": {
+      "datosFinca": {
+        "bloqueVia": "4",
+        "indicadorCedulaHabitabilidad": "\u0000",
+        "indicadorCoberturaHipoteca": "\u0000",
+        "indPorcentajeAsigDirecCobertura": "\u0000",
+        "indicadorResidenciaHabitual": "\u0000",
+        "codigoTipoNumVia": "N",
+        "escaleraVia": "izq",
+        "nombreVia": "DE MAJADAHONDA",
+        "pisoVia": "3º",
+        "portalVia": "8",
+        "puertaVia": "A",
+        "tipoVia": "CT",
+        "numeroVia": "21"
+      }
+    }
+  },
+  "stateData": {
+    "viewId": "MostrarVerificacionOKIU",
+    "availableTransitions": {
+      "obtenerDatosInmuebles": "/api/1.0/extranet/extranet/verificacionregistral/gestionar?_eventId=obtenerDatosInmuebles&execution=e1s5",
+      "end": "/api/1.0/extranet/extranet/verificacionregistral/gestionar?_eventId=end&execution=e1s5"
+    }
+  }
+}

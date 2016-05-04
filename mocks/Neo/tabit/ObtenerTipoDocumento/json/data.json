@@ -1,0 +1,302 @@
+[
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad2583b"
+    },
+    "CODIGO": "F",
+    "DESCORTA": "OTROS PF",
+    "DESLARGA": "OTROS DOCUMENTOS DE PERSONA FISICA",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCIDENTIF"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad2583c"
+    },
+    "CODIGO": "F",
+    "DESCORTA": "OTROS PF",
+    "DESLARGA": "OTROS DOCUMENTOS DE PERSONA FISICA",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad2583d"
+    },
+    "CODIGO": "J",
+    "DESCORTA": "OTROS PJ",
+    "DESLARGA": "OTROS DOCUMENTOS DE PERSONA JURIDICA",
+    "TIPOPERSONA": "J",
+    "AGRUPACION": "DOCIDENTIF"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad2583e"
+    },
+    "CODIGO": "J",
+    "DESCORTA": "OTROS PJ",
+    "DESLARGA": "OTROS DOCUMENTOS DE PERSONA JURIDICA",
+    "TIPOPERSONA": "J",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad2583f"
+    },
+    "CODIGO": "1",
+    "DESCORTA": "DNI",
+    "DESLARGA": "DOCUMENTO NACIONAL DE IDENTIDAD",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCIDENTIF"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25840"
+    },
+    "CODIGO": "2",
+    "DESCORTA": "CI",
+    "DESLARGA": "CODIGO IDENTIFICACION FISCAL",
+    "TIPOPERSONA": "J",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25841"
+    },
+    "CODIGO": "2",
+    "DESCORTA": "CI",
+    "DESLARGA": "CODIGO IDENTIFICACION FISCAL",
+    "TIPOPERSONA": "J",
+    "AGRUPACION": "DOCIDENTIF"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25842"
+    },
+    "CODIGO": "3",
+    "DESCORTA": "TR",
+    "DESLARGA": "TARJETA DE RESIDENTE",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCIDENTIF"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25843"
+    },
+    "CODIGO": "3",
+    "DESCORTA": "TR",
+    "DESLARGA": "TARJETA DE RESIDENTE",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25844"
+    },
+    "CODIGO": "4",
+    "DESCORTA": "PASAPORTE",
+    "DESLARGA": "PASAPORTE ESPAÑOL / EXTRANJERO",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCIDENTIF"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25845"
+    },
+    "CODIGO": "4",
+    "DESCORTA": "PASAPORTE",
+    "DESLARGA": "PASAPORTE ESPAÑOL / EXTRANJERO",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25846"
+    },
+    "CODIGO": "7",
+    "DESCORTA": "DOC.ID.EXT.",
+    "DESLARGA": "DOCUMENTO IDENTIFICADOR EXTRANJERO / PAI",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCIDENTIF"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25847"
+    },
+    "CODIGO": "9",
+    "DESCORTA": "MENOR",
+    "DESLARGA": "MENOR DE EDAD",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCIDENTIF"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25848"
+    },
+    "CODIGO": "8",
+    "DESCORTA": "T.ID.DIPLO",
+    "DESLARGA": "TARJETA IDENTIDAD DIPLOMATICA / DIPLOMAT",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCIDENTIF"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25849"
+    },
+    "CODIGO": "1",
+    "DESCORTA": "DNI",
+    "DESLARGA": "DOCUMENTO NACIONAL DE IDENTIDAD",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad2584a"
+    },
+    "CODIGO": "K",
+    "DESCORTA": "NIF PROVICIONAL",
+    "DESLARGA": "NIF PROVICIONAL",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad2584b"
+    },
+    "CODIGO": "M",
+    "DESCORTA": "TIN-EIN",
+    "DESLARGA": "TIN-EIN",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad2584c"
+    },
+    "CODIGO": "P",
+    "DESCORTA": "IDENT.BANCO ESPAÑA",
+    "DESLARGA": "IDENT.BANCO ESPAÑA",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad2584d"
+    },
+    "CODIGO": "Q",
+    "DESCORTA": "NIF IVA",
+    "DESLARGA": "NIF IVA",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad2584e"
+    },
+    "CODIGO": "Q",
+    "DESCORTA": "NIF IVA",
+    "DESLARGA": "NIF IVA",
+    "TIPOPERSONA": "J",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad2584f"
+    },
+    "CODIGO": "W",
+    "DESCORTA": "NIE",
+    "DESLARGA": "NIE",
+    "TIPOPERSONA": "J",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25850"
+    },
+    "CODIGO": "M",
+    "DESCORTA": "TIN-EIN",
+    "DESLARGA": "TIN-EIN",
+    "TIPOPERSONA": "J",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25851"
+    },
+    "CODIGO": "X",
+    "DESCORTA": "NIF PAIS ORIGEN",
+    "DESLARGA": "NIF PAIS ORIGEN",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25852"
+    },
+    "CODIGO": "Z",
+    "DESCORTA": "IDENT.CAJAMADRID",
+    "DESLARGA": "IDENT.CAJAMADRID",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25853"
+    },
+    "CODIGO": "X",
+    "DESCORTA": "NIF PAIS ORIGEN",
+    "DESLARGA": "NIF PAIS ORIGEN",
+    "TIPOPERSONA": "J",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25854"
+    },
+    "CODIGO": "Z",
+    "DESCORTA": "IDENT.CAJAMADRID",
+    "DESLARGA": "IDENT.CAJAMADRID",
+    "TIPOPERSONA": "J",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25855"
+    },
+    "CODIGO": "W",
+    "DESCORTA": "NIE",
+    "DESLARGA": "NIE",
+    "TIPOPERSONA": "F",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25856"
+    },
+    "CODIGO": "K",
+    "DESCORTA": "NIF PROVICIONAL",
+    "DESLARGA": "NIF PROVICIONAL",
+    "TIPOPERSONA": "J",
+    "AGRUPACION": "DOCGENERAL"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25857"
+    },
+    "CODIGO": "5",
+    "DESCORTA": "CI PAIS OR",
+    "DESLARGA": "CODIGO IDENTIFICACION PAIS ORIGEN / EXTR",
+    "TIPOPERSONA": "J",
+    "AGRUPACION": "DOCIDENTIF"
+  },
+  {
+    "_id": {
+      "$oid": "56b30aacdc9c2808aad25858"
+    },
+    "CODIGO": "P",
+    "DESCORTA": "IDENT.BANCO ESPAÑA",
+    "DESLARGA": "IDENT.BANCO ESPAÑA",
+    "TIPOPERSONA": "J",
+    "AGRUPACION": "DOCGENERAL"
+  }
+]

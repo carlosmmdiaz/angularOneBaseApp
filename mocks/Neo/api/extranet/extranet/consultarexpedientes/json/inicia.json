@@ -1,0 +1,61 @@
+{
+  "stateData": {
+    "viewId": "MostrarExpedientesIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/extranet.consultarexpedientes/extranet/consultarexpedientes?_eventId=terminar&execution=e2s1",
+      "end": "/api/1.0/extranet.consultarexpedientes/extranet/consultarexpedientes?_eventId=end&execution=e2s1"
+    }
+  },
+  "data": {
+    "codigoCentroGestorPropuesta": "1778",
+    "nombrePropuestaFinanciacion": "Nombre Propuesta",
+    "expedientesAsociados": [
+      {
+        "documentoIdentidadTitular": "B84422922",
+        "imagenEstado": "PE",
+        "nombrePrimerTitular": "MOTOS SITO",
+        "identificadorExpediente": "000000001569630123",
+        "importePropuesta": {
+          "importeConSigno": 500050,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          }
+        },
+        "tipoTramitacion": "APERTUBC"
+      },
+      {
+        "documentoIdentidadTitular": "B84422922",
+        "imagenEstado": "PE",
+        "nombrePrimerTitular": "MOTOS SITO",
+        "identificadorExpediente": "000000001569630124",
+        "importePropuesta": {
+          "importeConSigno": 500050,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          }
+        },
+        "tipoTramitacion": "APERTUBC"
+      },
+      {
+        "documentoIdentidadTitular": "B84422922",
+        "imagenEstado": "PE",
+        "nombrePrimerTitular": "MOTOS SITO",
+        "identificadorExpediente": "000000001569630125",
+        "importePropuesta": {
+          "importeConSigno": 500050,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          }
+        },
+        "tipoTramitacion": "APERTUBC"
+      }
+    ],
+    "numeroOcurrencias": 2
+  }
+}

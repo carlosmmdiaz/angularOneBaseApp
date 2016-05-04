@@ -1,0 +1,110 @@
+{
+  "tiempoConsumido": 3,
+  "agregaciones": {
+    "procesosBO": {
+      "cubos": [{
+        "valor": "P00001",
+        "cantidadOcurrenciasAlmacenadas": 317,
+        "fases": {
+          "cubos": [{
+            "valor": "FA0001",
+            "cantidadOcurrenciasAlmacenadas": 281,
+            "tipoTarea": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "cubos": [{
+                "valor": "VR",
+                "cantidadOcurrenciasAlmacenadas": 231
+              }, {
+                "valor": "IN",
+                "cantidadOcurrenciasAlmacenadas": 41
+              }, {
+                "valor": "DV",
+                "cantidadOcurrenciasAlmacenadas": 4
+              }, {
+                "valor": "XG",
+                "cantidadOcurrenciasAlmacenadas": 3
+              }, {
+                "valor": "D1",
+                "cantidadOcurrenciasAlmacenadas": 1
+              }, {
+                "valor": "VR03",
+                "cantidadOcurrenciasAlmacenadas": 1
+              }]
+            }
+          }, {
+            "valor": "FA0002",
+            "cantidadOcurrenciasAlmacenadas": 35,
+            "tipoTarea": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "cubos": [{
+                "valor": "FR",
+                "cantidadOcurrenciasAlmacenadas": 33
+              }, {
+                "valor": "DE",
+                "cantidadOcurrenciasAlmacenadas": 2
+              }]
+            }
+          }, {
+            "valor": "FA0003",
+            "cantidadOcurrenciasAlmacenadas": 1,
+            "tipoTarea": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "cubos": [{
+                "valor": "PF",
+                "cantidadOcurrenciasAlmacenadas": 1
+              }]
+            }
+          }]
+        }
+      }, {
+        "valor": "PRO001",
+        "cantidadOcurrenciasAlmacenadas": 2,
+        "fases": {
+          "cubos": [{
+            "valor": "FA001",
+            "cantidadOcurrenciasAlmacenadas": 1,
+            "tipoTarea": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "cubos": [{
+                "valor": "TASK001",
+                "cantidadOcurrenciasAlmacenadas": 1
+              }]
+            }
+          }, {
+            "valor": "FA002",
+            "cantidadOcurrenciasAlmacenadas": 1,
+            "tipoTarea": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "cubos": [{
+                "valor": "TASK007",
+                "cantidadOcurrenciasAlmacenadas": 1
+              }]
+            }
+          }]
+        }
+      }, {
+        "valor": "",
+        "cantidadOcurrenciasAlmacenadas": 1,
+        "fases": {
+          "cubos": [{
+            "valor": "",
+            "cantidadOcurrenciasAlmacenadas": 1,
+            "tipoTarea": {
+              "cubos": [{
+                "valor": "M06",
+                "cantidadOcurrenciasAlmacenadas": 1
+              }]
+            }
+          }]
+        }
+      }]
+    }
+  },
+  "coincidencias": [],
+  "cantidadOcurrenciasAlmacenadas": 320
+}

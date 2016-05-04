@@ -1,5 +1,4 @@
 'use strict';
-require('./config.js');
 
 var gulp = require('gulp'),
     compass = require('gulp-compass'),
@@ -20,3 +19,9 @@ function compileSass(){
         })
         .pipe(gulp.dest(sass.destSass));
 }
+
+// gulp.task('sass', function () {
+// gulp.src('src/sass/index.sass')
+//    .pipe(sass({indentedSyntax: true}))
+//    .pipe(gulp.dest('build/css'))
+//    });

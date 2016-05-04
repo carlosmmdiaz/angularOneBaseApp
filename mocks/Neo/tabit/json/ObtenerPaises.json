@@ -1,0 +1,1674 @@
+[ {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "660",
+  "DESCORTA" : "AFGANISTAN",
+  "DESLARGA" : "AFGANISTAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "070",
+  "DESCORTA" : "ALBANIA",
+  "DESLARGA" : "ALBANIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "004",
+  "DESCORTA" : "ALEMANIA",
+  "DESLARGA" : "ALEMANIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "043",
+  "DESCORTA" : "ANDORRA",
+  "DESLARGA" : "ANDORRA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "330",
+  "DESCORTA" : "ANGOLA",
+  "DESLARGA" : "ANGOLA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "446",
+  "DESCORTA" : "ANGUILLA",
+  "DESLARGA" : "ANGUILLA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "890",
+  "DESCORTA" : "ANTANTICA",
+  "DESLARGA" : "ANTANTICA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "459",
+  "DESCORTA" : "ANTIGUA Y BARBUDA",
+  "DESLARGA" : "ANTIGUA Y BARBUDA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "632",
+  "DESCORTA" : "ARABIA SAUDITA",
+  "DESLARGA" : "ARABIA SAUDITA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "027",
+  "DESCORTA" : "ARCHIPIELAGO SVALBA",
+  "DESLARGA" : "ARCHIPIELAGO SVALBARD"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "208",
+  "DESCORTA" : "ARGELIA",
+  "DESLARGA" : "ARGELIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "528",
+  "DESCORTA" : "ARGENTINA",
+  "DESLARGA" : "ARGENTINA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "077",
+  "DESCORTA" : "ARMENIA",
+  "DESLARGA" : "ARMENIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "474",
+  "DESCORTA" : "ARUBA",
+  "DESLARGA" : "ARUBA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "800",
+  "DESCORTA" : "AUSTRALIA",
+  "DESLARGA" : "AUSTRALIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "038",
+  "DESCORTA" : "AUSTRIA",
+  "DESLARGA" : "AUSTRIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "078",
+  "DESCORTA" : "AZERBAIYAN",
+  "DESLARGA" : "AZERBAIYAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "453",
+  "DESCORTA" : "BAHAMAS",
+  "DESLARGA" : "BAHAMAS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "640",
+  "DESCORTA" : "BAHREIN",
+  "DESLARGA" : "BAHREIN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "666",
+  "DESCORTA" : "BANGLA DESH",
+  "DESLARGA" : "BANGLA DESH"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "469",
+  "DESCORTA" : "BARBADOS",
+  "DESLARGA" : "BARBADOS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "002",
+  "DESCORTA" : "BELGICA",
+  "DESLARGA" : "BELGICA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "421",
+  "DESCORTA" : "BELICE",
+  "DESLARGA" : "BELICE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "284",
+  "DESCORTA" : "BENIN",
+  "DESLARGA" : "BENIN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "413",
+  "DESCORTA" : "BERMUDAS",
+  "DESLARGA" : "BERMUDAS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "675",
+  "DESCORTA" : "BHOUTAN",
+  "DESLARGA" : "BHOUTAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "073",
+  "DESCORTA" : "BIELORRUSIA",
+  "DESLARGA" : "BIELORRUSIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "516",
+  "DESCORTA" : "BOLIVIA",
+  "DESLARGA" : "BOLIVIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "093",
+  "DESCORTA" : "BOSNIA-HERZEGOVINA",
+  "DESLARGA" : "BOSNIA-HERZEGOVINA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "391",
+  "DESCORTA" : "BOTSWANA",
+  "DESLARGA" : "BOTSWANA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "782",
+  "DESCORTA" : "BOUVET, ISLAS",
+  "DESLARGA" : "BOUVET, ISLAS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "508",
+  "DESCORTA" : "BRASIL",
+  "DESLARGA" : "BRASIL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "703",
+  "DESCORTA" : "BRUNEI",
+  "DESLARGA" : "BRUNEI"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "068",
+  "DESCORTA" : "BULGARIA",
+  "DESLARGA" : "BULGARIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "236",
+  "DESCORTA" : "BURKINA-FASO (ALTO",
+  "DESLARGA" : "BURKINA-FASO (ALTO VOL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "328",
+  "DESCORTA" : "BURUNDI",
+  "DESLARGA" : "BURUNDI"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "302",
+  "DESCORTA" : "CAMERUN",
+  "DESLARGA" : "CAMERUN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "404",
+  "DESCORTA" : "CANADA",
+  "DESLARGA" : "CANADA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "244",
+  "DESCORTA" : "CHAD",
+  "DESLARGA" : "CHAD"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "512",
+  "DESCORTA" : "CHILE",
+  "DESLARGA" : "CHILE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "720",
+  "DESCORTA" : "CHINA",
+  "DESLARGA" : "CHINA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "600",
+  "DESCORTA" : "CHIPRE",
+  "DESLARGA" : "CHIPRE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "045",
+  "DESCORTA" : "CIUDAD DEL VATICANO",
+  "DESLARGA" : "CIUDAD DEL VATICANO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "480",
+  "DESCORTA" : "COLOMBIA",
+  "DESLARGA" : "COLOMBIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "375",
+  "DESCORTA" : "COMORES",
+  "DESLARGA" : "COMORES"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "318",
+  "DESCORTA" : "CONGO",
+  "DESLARGA" : "CONGO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "724",
+  "DESCORTA" : "COREA DEL NORTE",
+  "DESLARGA" : "COREA DEL NORTE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "728",
+  "DESCORTA" : "COREA DEL SUR",
+  "DESLARGA" : "COREA DEL SUR"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "272",
+  "DESCORTA" : "COSTA DE MARFIL",
+  "DESLARGA" : "COSTA DE MARFIL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "436",
+  "DESCORTA" : "COSTA RICA",
+  "DESLARGA" : "COSTA RICA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "092",
+  "DESCORTA" : "CROACIA",
+  "DESLARGA" : "CROACIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "448",
+  "DESCORTA" : "CUBA",
+  "DESLARGA" : "CUBA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "476",
+  "DESCORTA" : "CURAÇAO",
+  "DESLARGA" : "CURAÇAO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "008",
+  "DESCORTA" : "DINAMARCA",
+  "DESLARGA" : "DINAMARCA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "338",
+  "DESCORTA" : "DJIBOUTI",
+  "DESLARGA" : "DJIBOUTI"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "460",
+  "DESCORTA" : "DOMINICA",
+  "DESLARGA" : "DOMINICA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "500",
+  "DESCORTA" : "ECUADOR",
+  "DESLARGA" : "ECUADOR"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "220",
+  "DESCORTA" : "EGIPTO",
+  "DESLARGA" : "EGIPTO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "428",
+  "DESCORTA" : "EL SALVADOR",
+  "DESLARGA" : "EL SALVADOR"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "647",
+  "DESCORTA" : "EMIRATOS ARABES",
+  "DESLARGA" : "EMIRATOS ARABES"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "336",
+  "DESCORTA" : "ERITREA",
+  "DESLARGA" : "ERITREA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "091",
+  "DESCORTA" : "ESLOVENIA",
+  "DESLARGA" : "ESLOVENIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "011",
+  "DESCORTA" : "ESPAÑA",
+  "DESLARGA" : "ESPAÑA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "400",
+  "DESCORTA" : "ESTADOS UNIDOS",
+  "DESLARGA" : "ESTADOS UNIDOS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "053",
+  "DESCORTA" : "ESTONIA",
+  "DESLARGA" : "ESTONIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "334",
+  "DESCORTA" : "ETIOPIA",
+  "DESLARGA" : "ETIOPIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "815",
+  "DESCORTA" : "FIDJI",
+  "DESLARGA" : "FIDJI"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "708",
+  "DESCORTA" : "FILIPINAS",
+  "DESLARGA" : "FILIPINAS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "032",
+  "DESCORTA" : "FINLANDIA",
+  "DESLARGA" : "FINLANDIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "001",
+  "DESCORTA" : "FRANCIA",
+  "DESLARGA" : "FRANCIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "314",
+  "DESCORTA" : "GABON",
+  "DESLARGA" : "GABON"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "252",
+  "DESCORTA" : "GAMBIA",
+  "DESLARGA" : "GAMBIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "625",
+  "DESCORTA" : "GAZA Y JERICO",
+  "DESLARGA" : "GAZA Y JERICO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "076",
+  "DESCORTA" : "GEORGIA",
+  "DESLARGA" : "GEORGIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "276",
+  "DESCORTA" : "GHANA",
+  "DESLARGA" : "GHANA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "044",
+  "DESCORTA" : "GIBRALTAR",
+  "DESLARGA" : "GIBRALTAR"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "473",
+  "DESCORTA" : "GRANADA",
+  "DESLARGA" : "GRANADA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "009",
+  "DESCORTA" : "GRECIA",
+  "DESLARGA" : "GRECIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "406",
+  "DESCORTA" : "GROENLANDIA",
+  "DESLARGA" : "GROENLANDIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "458",
+  "DESCORTA" : "GUADALUPE",
+  "DESLARGA" : "GUADALUPE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "810",
+  "DESCORTA" : "GUAM (OCEANIA AMERI",
+  "DESLARGA" : "GUAM (OCEANIA AMERICAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "416",
+  "DESCORTA" : "GUATEMALA",
+  "DESLARGA" : "GUATEMALA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "778",
+  "DESCORTA" : "GUERNSEY(ISLAS ANGL",
+  "DESLARGA" : "GUERNSEY(ISLAS ANGLONO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "260",
+  "DESCORTA" : "GUINEA",
+  "DESLARGA" : "GUINEA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "257",
+  "DESCORTA" : "GUINEA - BISSAU",
+  "DESLARGA" : "GUINEA - BISSAU"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "310",
+  "DESCORTA" : "GUINEA ECUATORIAL",
+  "DESLARGA" : "GUINEA ECUATORIAL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "488",
+  "DESCORTA" : "GUYANA",
+  "DESLARGA" : "GUYANA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "452",
+  "DESCORTA" : "HAITI",
+  "DESLARGA" : "HAITI"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "424",
+  "DESCORTA" : "HONDURAS",
+  "DESLARGA" : "HONDURAS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "740",
+  "DESCORTA" : "HONG-KONG",
+  "DESLARGA" : "HONG-KONG"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "064",
+  "DESCORTA" : "HUNGRIA",
+  "DESLARGA" : "HUNGRIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "664",
+  "DESCORTA" : "INDIA",
+  "DESLARGA" : "INDIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "700",
+  "DESCORTA" : "INDONESIA",
+  "DESLARGA" : "INDONESIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "616",
+  "DESCORTA" : "IRAN",
+  "DESLARGA" : "IRAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "612",
+  "DESCORTA" : "IRAQ",
+  "DESLARGA" : "IRAQ"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "007",
+  "DESCORTA" : "IRLANDA",
+  "DESLARGA" : "IRLANDA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "104",
+  "DESCORTA" : "ISLA DE MAN",
+  "DESLARGA" : "ISLA DE MAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "024",
+  "DESCORTA" : "ISLANDIA",
+  "DESLARGA" : "ISLANDIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "103",
+  "DESCORTA" : "ISLAS ANGLONORMANDA",
+  "DESLARGA" : "ISLAS ANGLONORMANDAS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "479",
+  "DESCORTA" : "I.BONAIRE.S.EUS.SABA",
+  "DESLARGA" : "ISLAS BONAIRE, SAN EUSTAQUIO Y SABA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "463",
+  "DESCORTA" : "ISLAS CAYMAN",
+  "DESLARGA" : "ISLAS CAYMAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "107",
+  "DESCORTA" : "ISLAS COOK",
+  "DESLARGA" : "ISLAS COOK"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "041",
+  "DESCORTA" : "ISLAS FEROE",
+  "DESLARGA" : "ISLAS FEROE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "529",
+  "DESCORTA" : "ISLAS MALVINAS",
+  "DESLARGA" : "ISLAS MALVINAS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "820",
+  "DESCORTA" : "ISLAS MARIANAS DEL",
+  "DESLARGA" : "ISLAS MARIANAS DEL NOR"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "824",
+  "DESCORTA" : "ISLAS MARSHALL",
+  "DESLARGA" : "ISLAS MARSHALL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "780",
+  "DESCORTA" : "ISLAS MENORES EE.UU",
+  "DESLARGA" : "ISLAS MENORES EE.UU(OC"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "813",
+  "DESCORTA" : "ISLAS PITCAIRN",
+  "DESLARGA" : "ISLAS PITCAIRN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "806",
+  "DESCORTA" : "ISLAS SALOMON",
+  "DESLARGA" : "ISLAS SALOMON"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "454",
+  "DESCORTA" : "ISLAS TURQUESAS-CAI",
+  "DESLARGA" : "ISLAS TURQUESAS-CAICOS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "468",
+  "DESCORTA" : "ISLAS VIRGENES BRIT",
+  "DESLARGA" : "ISLAS VIRGENES BRITANI"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "457",
+  "DESCORTA" : "ISLAS VIRGENES EEUU",
+  "DESLARGA" : "ISLAS VIRGENES EEUU"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "811",
+  "DESCORTA" : "ISLAS WALLIS/FORTUN",
+  "DESLARGA" : "ISLAS WALLIS/FORTUNA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "624",
+  "DESCORTA" : "ISRAEL",
+  "DESLARGA" : "ISRAEL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "005",
+  "DESCORTA" : "ITALIA",
+  "DESLARGA" : "ITALIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "464",
+  "DESCORTA" : "JAMAICA",
+  "DESLARGA" : "JAMAICA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "732",
+  "DESCORTA" : "JAPON",
+  "DESLARGA" : "JAPON"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "777",
+  "DESCORTA" : "JERSEY (ISLAS ANGLO",
+  "DESLARGA" : "JERSEY (ISLAS ANGLONOR"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "628",
+  "DESCORTA" : "JORDANIA",
+  "DESLARGA" : "JORDANIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "696",
+  "DESCORTA" : "KAMPUCHEA (CAMBOYA)",
+  "DESLARGA" : "KAMPUCHEA (CAMBOYA)"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "079",
+  "DESCORTA" : "KAZAJSTAN",
+  "DESLARGA" : "KAZAJSTAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "346",
+  "DESCORTA" : "KENYA",
+  "DESLARGA" : "KENYA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "083",
+  "DESCORTA" : "KIRGUIZISTAN",
+  "DESLARGA" : "KIRGUIZISTAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "812",
+  "DESCORTA" : "KIRIBATI",
+  "DESLARGA" : "KIRIBATI"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "636",
+  "DESCORTA" : "KUWAIT",
+  "DESLARGA" : "KUWAIT"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "684",
+  "DESCORTA" : "LAOS",
+  "DESLARGA" : "LAOS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "395",
+  "DESCORTA" : "LESOTHO",
+  "DESLARGA" : "LESOTHO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "054",
+  "DESCORTA" : "LETONIA",
+  "DESLARGA" : "LETONIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "604",
+  "DESCORTA" : "LIBANO",
+  "DESLARGA" : "LIBANO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "268",
+  "DESCORTA" : "LIBERIA",
+  "DESLARGA" : "LIBERIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "216",
+  "DESCORTA" : "LIBIA",
+  "DESLARGA" : "LIBIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "037",
+  "DESCORTA" : "LIETCHTENSTEIN",
+  "DESLARGA" : "LIETCHTENSTEIN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "055",
+  "DESCORTA" : "LITUANIA",
+  "DESLARGA" : "LITUANIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "108",
+  "DESCORTA" : "LUXEMBURGO",
+  "DESLARGA" : "LUXEMBURGO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "743",
+  "DESCORTA" : "MACAO",
+  "DESLARGA" : "MACAO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "096",
+  "DESCORTA" : "MACEDONIA",
+  "DESLARGA" : "MACEDONIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "370",
+  "DESCORTA" : "MADAGASCAR",
+  "DESLARGA" : "MADAGASCAR"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "701",
+  "DESCORTA" : "MALASIA",
+  "DESLARGA" : "MALASIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "386",
+  "DESCORTA" : "MALAWI",
+  "DESLARGA" : "MALAWI"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "667",
+  "DESCORTA" : "MALDIVAS (ISLAS)",
+  "DESLARGA" : "MALDIVAS (ISLAS)"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "232",
+  "DESCORTA" : "MALI",
+  "DESLARGA" : "MALI"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "046",
+  "DESCORTA" : "MALTA",
+  "DESLARGA" : "MALTA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "204",
+  "DESCORTA" : "MARRUECOS",
+  "DESLARGA" : "MARRUECOS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "462",
+  "DESCORTA" : "MARTINICA",
+  "DESLARGA" : "MARTINICA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "373",
+  "DESCORTA" : "MAURICIO",
+  "DESLARGA" : "MAURICIO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "228",
+  "DESCORTA" : "MAURITANIA",
+  "DESLARGA" : "MAURITANIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "377",
+  "DESCORTA" : "MAYOTTE",
+  "DESLARGA" : "MAYOTTE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "412",
+  "DESCORTA" : "MEXICO",
+  "DESLARGA" : "MEXICO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "823",
+  "DESCORTA" : "MICRONESIA",
+  "DESLARGA" : "MICRONESIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "074",
+  "DESCORTA" : "MOLDAVIA",
+  "DESLARGA" : "MOLDAVIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "101",
+  "DESCORTA" : "MONACO",
+  "DESLARGA" : "MONACO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "716",
+  "DESCORTA" : "MONGOLIA",
+  "DESLARGA" : "MONGOLIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "470",
+  "DESCORTA" : "MONTSERRAT",
+  "DESLARGA" : "MONTSERRAT"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "366",
+  "DESCORTA" : "MOZAMBIQUE",
+  "DESLARGA" : "MOZAMBIQUE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "676",
+  "DESCORTA" : "MYANMAR (BIRMANIA)",
+  "DESLARGA" : "MYANMAR (BIRMANIA)"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "389",
+  "DESCORTA" : "NAMIBIA",
+  "DESLARGA" : "NAMIBIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "803",
+  "DESCORTA" : "NAURU",
+  "DESLARGA" : "NAURU"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "672",
+  "DESCORTA" : "NEPAL",
+  "DESLARGA" : "NEPAL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "432",
+  "DESCORTA" : "NICARAGUA",
+  "DESLARGA" : "NICARAGUA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "240",
+  "DESCORTA" : "NIGER",
+  "DESLARGA" : "NIGER"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "288",
+  "DESCORTA" : "NIGERIA",
+  "DESLARGA" : "NIGERIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "028",
+  "DESCORTA" : "NORUEGA",
+  "DESLARGA" : "NORUEGA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "809",
+  "DESCORTA" : "NUEVA CALEDONIA",
+  "DESLARGA" : "NUEVA CALEDONIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "804",
+  "DESCORTA" : "NUEVA ZELANDA",
+  "DESLARGA" : "NUEVA ZELANDA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "802",
+  "DESCORTA" : "OCEANIA AUSTRALIANA",
+  "DESLARGA" : "OCEANIA AUSTRALIANA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "814",
+  "DESCORTA" : "OCEANIA NEOZELANDES",
+  "DESLARGA" : "OCEANIA NEOZELANDESA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "649",
+  "DESCORTA" : "OMAN",
+  "DESLARGA" : "OMAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "003",
+  "DESCORTA" : "PAISES BAJOS",
+  "DESLARGA" : "PAISES BAJOS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "662",
+  "DESCORTA" : "PAKISTAN",
+  "DESLARGA" : "PAKISTAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "825",
+  "DESCORTA" : "PALAU",
+  "DESLARGA" : "PALAU"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "442",
+  "DESCORTA" : "PANAMA",
+  "DESLARGA" : "PANAMA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "801",
+  "DESCORTA" : "PAPUA-NUEVA GUINEA",
+  "DESLARGA" : "PAPUA-NUEVA GUINEA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "520",
+  "DESCORTA" : "PARAGUAY",
+  "DESLARGA" : "PARAGUAY"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "504",
+  "DESCORTA" : "PERU",
+  "DESLARGA" : "PERU"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "822",
+  "DESCORTA" : "POLINESIA FRANCESA",
+  "DESLARGA" : "POLINESIA FRANCESA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "060",
+  "DESCORTA" : "POLONIA",
+  "DESLARGA" : "POLONIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "010",
+  "DESCORTA" : "PORTUGAL",
+  "DESLARGA" : "PORTUGAL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "401",
+  "DESCORTA" : "PUERTO RICO",
+  "DESLARGA" : "PUERTO RICO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "644",
+  "DESCORTA" : "QATAR",
+  "DESLARGA" : "QATAR"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "006",
+  "DESCORTA" : "REINO UNIDO",
+  "DESLARGA" : "REINO UNIDO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "306",
+  "DESCORTA" : "REP. CENTRO AFRICAN",
+  "DESLARGA" : "REP. CENTRO AFRICANA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "247",
+  "DESCORTA" : "REP. DE CABO VERDE",
+  "DESLARGA" : "REP. DE CABO VERDE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "098",
+  "DESCORTA" : "REP. DE MONTENEGRO",
+  "DESLARGA" : "REPUBLICA DE MONTENEGRO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "097",
+  "DESCORTA" : "REP. DE SERBIA",
+  "DESLARGA" : "REPUBLICA DE SERBIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "456",
+  "DESCORTA" : "REP. DOMINICANA",
+  "DESLARGA" : "REP. DOMINICANA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "322",
+  "DESCORTA" : "REP.DEM.CONGO (EX Z",
+  "DESLARGA" : "REP.DEM.CONGO (EX ZAIR"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "061",
+  "DESCORTA" : "REPUBLICA CHECA",
+  "DESLARGA" : "REPUBLICA CHECA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "063",
+  "DESCORTA" : "REPUBLICA ESLOVACA",
+  "DESLARGA" : "REPUBLICA ESLOVACA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "372",
+  "DESCORTA" : "REUNION",
+  "DESLARGA" : "REUNION"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "066",
+  "DESCORTA" : "RUMANIA",
+  "DESLARGA" : "RUMANIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "075",
+  "DESCORTA" : "RUSIA",
+  "DESLARGA" : "RUSIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "324",
+  "DESCORTA" : "RWANDA",
+  "DESLARGA" : "RWANDA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "779",
+  "DESCORTA" : "SAMOA AMERICANA (OC",
+  "DESLARGA" : "SAMOA AMERICANA (OCEAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "819",
+  "DESCORTA" : "SAMOA OCCIDENTAL",
+  "DESLARGA" : "SAMOA OCCIDENTAL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "449",
+  "DESCORTA" : "SAN CRISTOBAL Y NEV",
+  "DESLARGA" : "SAN CRISTOBAL Y NEVIS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "047",
+  "DESCORTA" : "SAN MARINO",
+  "DESLARGA" : "SAN MARINO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "477",
+  "DESCORTA" : "SAN MARTIN",
+  "DESLARGA" : "SAN MARTIN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "408",
+  "DESCORTA" : "SAN PEDRO Y MIQUELO",
+  "DESLARGA" : "SAN PEDRO Y MIQUELON"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "467",
+  "DESCORTA" : "SAN VICENTE",
+  "DESLARGA" : "SAN VICENTE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "329",
+  "DESCORTA" : "SANTA HELENA",
+  "DESLARGA" : "SANTA HELENA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "465",
+  "DESCORTA" : "SANTA LUCIA",
+  "DESLARGA" : "SANTA LUCIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "311",
+  "DESCORTA" : "SANTO TOME Y PRINCI",
+  "DESLARGA" : "SANTO TOME Y PRINCIPE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "248",
+  "DESCORTA" : "SENEGAL",
+  "DESLARGA" : "SENEGAL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "094",
+  "DESCORTA" : "SERBIA Y MONTENEGRO",
+  "DESLARGA" : "*EXTINGUIDO* SERBIA MONTENEGRO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "355",
+  "DESCORTA" : "SEYCHELLES",
+  "DESLARGA" : "SEYCHELLES"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "264",
+  "DESCORTA" : "SIERRA LEONA",
+  "DESLARGA" : "SIERRA LEONA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "706",
+  "DESCORTA" : "SINGAPUR",
+  "DESLARGA" : "SINGAPUR"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "608",
+  "DESCORTA" : "SIRIA",
+  "DESLARGA" : "SIRIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "342",
+  "DESCORTA" : "SOMALIA",
+  "DESLARGA" : "SOMALIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "669",
+  "DESCORTA" : "SRI LANKA",
+  "DESLARGA" : "SRI LANKA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "388",
+  "DESCORTA" : "SUDAFRICA",
+  "DESLARGA" : "SUDAFRICA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "224",
+  "DESCORTA" : "SUDAN",
+  "DESLARGA" : "SUDAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "030",
+  "DESCORTA" : "SUECIA",
+  "DESLARGA" : "SUECIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "039",
+  "DESCORTA" : "SUIZA",
+  "DESLARGA" : "SUIZA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "781",
+  "DESCORTA" : "SUR GEORGIA/SUR SAN",
+  "DESLARGA" : "SUR GEORGIA/SUR SANDWI"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "492",
+  "DESCORTA" : "SURINAM",
+  "DESLARGA" : "SURINAM"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "393",
+  "DESCORTA" : "SWAZILAND",
+  "DESLARGA" : "SWAZILAND"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "357",
+  "DESCORTA" : "T.BRITANICO O.INDIC",
+  "DESLARGA" : "T.BRITANICO O.INDICO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "736",
+  "DESCORTA" : "TAIWAN",
+  "DESLARGA" : "TAIWAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "352",
+  "DESCORTA" : "TANZANIA",
+  "DESLARGA" : "TANZANIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "082",
+  "DESCORTA" : "TAYIKISTAN",
+  "DESLARGA" : "TAYIKISTAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "680",
+  "DESCORTA" : "THAILANDIA",
+  "DESLARGA" : "THAILANDIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "280",
+  "DESCORTA" : "TOGO",
+  "DESLARGA" : "TOGO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "817",
+  "DESCORTA" : "TONGA",
+  "DESLARGA" : "TONGA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "472",
+  "DESCORTA" : "TRINIDAD Y TOBAGO",
+  "DESLARGA" : "TRINIDAD Y TOBAGO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "212",
+  "DESCORTA" : "TUNEZ",
+  "DESLARGA" : "TUNEZ"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "080",
+  "DESCORTA" : "TURKEMENISTAN",
+  "DESLARGA" : "TURKEMENISTAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "052",
+  "DESCORTA" : "TURQUIA",
+  "DESLARGA" : "TURQUIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "807",
+  "DESCORTA" : "TUVALU",
+  "DESLARGA" : "TUVALU"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "072",
+  "DESCORTA" : "UCRANIA",
+  "DESLARGA" : "UCRANIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "350",
+  "DESCORTA" : "UGANDA",
+  "DESLARGA" : "UGANDA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "524",
+  "DESCORTA" : "URUGUAY",
+  "DESLARGA" : "URUGUAY"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "081",
+  "DESCORTA" : "UZBEDISTAN",
+  "DESLARGA" : "UZBEDISTAN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "816",
+  "DESCORTA" : "VANUATU",
+  "DESLARGA" : "VANUATU"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "484",
+  "DESCORTA" : "VENEZUELA",
+  "DESLARGA" : "VENEZUELA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "690",
+  "DESCORTA" : "VIETNAM",
+  "DESLARGA" : "VIETNAM"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "653",
+  "DESCORTA" : "YEMEN",
+  "DESLARGA" : "YEMEN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "378",
+  "DESCORTA" : "ZAMBIA",
+  "DESLARGA" : "ZAMBIA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "382",
+  "DESCORTA" : "ZIMBABWE",
+  "DESLARGA" : "ZIMBABWE"
+} ]

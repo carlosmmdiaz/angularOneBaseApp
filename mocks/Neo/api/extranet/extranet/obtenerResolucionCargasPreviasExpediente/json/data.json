@@ -1,0 +1,45 @@
+{
+  "stateData": {
+    "viewId": "mostrarResolucionCargasPreviasIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/extranetPostFormalizacion/extranet/obtenerResolucionCargasPreviasExpediente?_eventId=terminar&execution=e1s1",
+      "end": "/api/1.0/extranetPostFormalizacion/extranet/obtenerResolucionCargasPreviasExpediente?_eventId=end&execution=e1s1"
+    }
+  },
+  "data": {
+    "cargaPreviaExpediente": [
+      {
+        "identificadorCargaPrevia": "1",
+        "claseCarga": "HIPOTECA",
+        "numeroFinca": "000000001",
+        "numeroRegistro": "2",
+        "nombreMunicipio": "ASTILLERO EL",
+        "nombreProvincia": "CANTABRIA",
+        "fechaCertificado": {
+          "valor": ""
+        },
+        "importeEconomico": {
+          "importeConSigno": 0,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          }
+        },
+        "importeRegistral": {
+          "importeConSigno": 450000000,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          }
+        },
+        "indicadorObligatoriedad": 1,
+        "domicilio": "MARITIMO",
+        "codigoEntidad": "0",
+        "oficinaAltaFinca": "1778"
+      }
+    ],
+    "indicadorMasCargas": false
+  }
+}

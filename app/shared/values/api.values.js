@@ -1,7 +1,7 @@
 (function () {
     'use strict';
     angular
-        .module('backoffice.core')
+        .module('app')
         .value('API', apiUrls());
 
     function apiUrls() {

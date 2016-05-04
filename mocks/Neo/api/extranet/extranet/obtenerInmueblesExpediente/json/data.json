@@ -1,0 +1,43 @@
+{
+  "stateData": {
+    "viewId": "mostrarInmueblesExpedienteIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/obtenerInmueblesExpediente-flow/extranet/obtenerInmueblesExpediente?_eventId=terminar&execution=e1s1",
+      "end": "/api/1.0/obtenerInmueblesExpediente-flow/extranet/obtenerInmueblesExpediente?_eventId=end&execution=e1s1"
+    }
+  },
+  "data": {
+    "clavePaginacionOut": "0",
+    "inmuebles": [{
+      "identificadorExpedienteGarantia": "00212000000000000001",
+      "fechaInscripcion": {
+        "valor": "2010-01-01"
+      },
+      "identificadorInmueble": "1115555",
+      "identificadorOficina": "1778",
+      "identificadorEntidad": "0",
+      "domicilioInmueble": "PASEO MARITIMO, 11, ASTILLERO EL, CANTABRIA",
+      "codigoTipoFinca": "EC",
+      "nombreTipoFinca": "EDIFICIO/COLECTIVO",
+      "codigoTipoCarga": "1",
+      "nombreTipoCarga": "1ª Carga"
+    },
+    {
+      "identificadorExpedienteGarantia": "00212000000000000001",
+      "fechaInscripcion": {
+        "valor": ""
+      },
+      "identificadorInmueble": "1115555",
+      "identificadorOficina": "1778",
+      "identificadorEntidad": "0",
+      "domicilioInmueble": "PASEO MARITIMO, 11, ASTILLERO EL, CANTABRIA",
+      "codigoTipoFinca": "EC",
+      "nombreTipoFinca": "EDIFICIO/COLECTIVO",
+      "codigoTipoCarga": "1",
+      "nombreTipoCarga": "1ª Carga"
+    }],
+    "hayMasMuebles": true,
+    "numeroOcurrenciasMuebles": 2,
+    "informeValoracion": ""
+  }
+}

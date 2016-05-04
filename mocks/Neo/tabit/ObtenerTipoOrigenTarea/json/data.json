@@ -1,0 +1,23 @@
+[
+    {
+        "_id": {
+            "$oid": "5624c4abdc9c2808aaf9341d"
+        },
+        "CO_TP_ORIGEN_TAREA": "PS",
+        "TL_TP_ORIGEN_TAREA": "Petición de servicio"
+    },
+    {
+        "_id": {
+            "$oid": "5624c4abdc9c2808aaf9341e"
+        },
+        "CO_TP_ORIGEN_TAREA": "PR",
+        "TL_TP_ORIGEN_TAREA": "Proceso Redise¦ado"
+    },
+    {
+        "_id": {
+            "$oid": "5624c4abdc9c2808aaf9341f"
+        },
+        "CO_TP_ORIGEN_TAREA": "TM",
+        "TL_TP_ORIGEN_TAREA": "Tarea Manual"
+    }
+]

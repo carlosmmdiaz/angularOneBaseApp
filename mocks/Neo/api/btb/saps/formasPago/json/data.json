@@ -1,0 +1,22 @@
+{
+    "formasPago": [
+        {
+            "Id": "O",
+            "Codigo": "TNTIFPAG",
+            "DescLarga": "Transferencia OMF",
+            "DescCorta": "Transferencia OMF"
+        },
+        {
+            "Id": "C",
+            "Codigo": "TNTIFPAG",
+            "DescLarga": "Cheque bancario",
+            "DescCorta": "Cheque bancario"
+        },
+        {
+            "Id": "T",
+            "Codigo": "TNTIFPAG",
+            "DescLarga": "Transferencia interna",
+            "DescCorta": "Transferencia interna"
+        }
+    ]
+}

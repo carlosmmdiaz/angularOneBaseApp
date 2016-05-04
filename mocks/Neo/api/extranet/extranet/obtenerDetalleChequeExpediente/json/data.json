@@ -1,0 +1,223 @@
+{
+  "stateData": {
+    "viewId": "mostrarDetalleChequesExpedienteIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/extranetFormalizacion/extranet/obtenerDetalleChequeExpediente?_eventId=terminar&execution=e4s1",
+      "end": "/api/1.0/extranetFormalizacion/extranet/obtenerDetalleChequeExpediente?_eventId=end&execution=e4s1"
+    }
+  },
+  "data": {
+    "cuentaCargo": {
+      "pais": "ES",
+      "digitosDeControl": "61",
+      "identificador": "20381778156600000110"
+    },
+    "cuentaCargoIBAN": "ES6120381778156600000110",
+    "fechaPrevistaFirma": {
+      "valor": "2016-03-15"
+    },
+    "fechaRecepcion": {
+      "valor": "2016-03-08"
+    },
+    "importeMaximoChequeEmitir": {
+      "importeConSigno": 12000000,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      }
+    },
+    "centroEmisor": "9564",
+    "identificadorGestoria": "89666",
+    "identificadorEntidadGestora": "G",
+    "clavePaginacionOut": "0",
+    "numeroOcurrencias": 6,
+    "indicadorMasCheques": false,
+    "indicadorActivacionBotonAceptar": 1,
+    "nombreOrdenante": "PEPITO PEREZ",
+    "numeroDocumentoOrdenante": "X00045821M",
+    "tipoDocumentoOrdenante": "3",
+    "nombreDocumentoOrdenante": "TR",
+    "cheques": [{
+      "identificadorCheque": "1",
+      "numeroOrdenCheque": 0,
+      "numeroCheque": "0",
+      "importeCheque": {
+        "importeConSigno": 364600,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "indicadorResidenteBeneficiario": 1,
+      "tipoDocumentoOrdenante": "3",
+      "nombreDocumentoOrdenante": "TR",
+      "numeroDocumentoOrdenante": "X00045821M",
+      "referenciaCheque": " ",
+      "codigoEstadoCheque": "AN",
+      "nombreEstadoCheque": "Anulado",
+      "nombreBeneficiario": "nombre",
+      "nombreOrdenante": "PEPITOÛPEREZ",
+      "indicadorResidenteOrdenante": 1,
+      "comisionCheque": {
+        "importeConSigno": 999,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      }
+    }, {
+      "identificadorCheque": "2",
+      "numeroOrdenCheque": 0,
+      "numeroCheque": "0",
+      "importeCheque": {
+        "importeConSigno": 64600,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "indicadorResidenteBeneficiario": 1,
+      "tipoDocumentoOrdenante": "3",
+      "nombreDocumentoOrdenante": "TR",
+      "numeroDocumentoOrdenante": "X00045821M",
+      "referenciaCheque": " ",
+      "codigoEstadoCheque": "AN",
+      "nombreEstadoCheque": "Anulado",
+      "nombreBeneficiario": "nombre2",
+      "nombreOrdenante": "PEPITOÛPEREZ",
+      "indicadorResidenteOrdenante": 1,
+      "comisionCheque": {
+        "importeConSigno": 999,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      }
+    }, {
+      "identificadorCheque": "3",
+      "numeroOrdenCheque": 0,
+      "numeroCheque": "0",
+      "importeCheque": {
+        "importeConSigno": 234200,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "indicadorResidenteBeneficiario": 1,
+      "tipoDocumentoOrdenante": "1",
+      "nombreDocumentoOrdenante": "DNI",
+      "numeroDocumentoOrdenante": "1936083N",
+      "referenciaCheque": " ",
+      "codigoEstadoCheque": "AN",
+      "nombreEstadoCheque": "Anulado",
+      "nombreBeneficiario": "nombre3",
+      "nombreOrdenante": "BEGOÑA CASTRO CASTRO",
+      "indicadorResidenteOrdenante": 1,
+      "comisionCheque": {
+        "importeConSigno": 999,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      }
+    }, {
+      "identificadorCheque": "4",
+      "numeroOrdenCheque": 0,
+      "numeroCheque": "6833985",
+      "importeCheque": {
+        "importeConSigno": 234200,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "indicadorResidenteBeneficiario": 1,
+      "tipoDocumentoOrdenante": "3",
+      "nombreDocumentoOrdenante": "TR",
+      "numeroDocumentoOrdenante": "X00045821M",
+      "referenciaCheque": "8002832821",
+      "codigoEstadoCheque": "EM",
+      "nombreEstadoCheque": "Emitido",
+      "nombreBeneficiario": "nombre",
+      "nombreOrdenante": "PEPITOÛPEREZ",
+      "indicadorResidenteOrdenante": 1,
+      "comisionCheque": {
+        "importeConSigno": 999,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      }
+    }, {
+      "identificadorCheque": "5",
+      "numeroOrdenCheque": 0,
+      "numeroCheque": "0",
+      "importeCheque": {
+        "importeConSigno": 2300,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "indicadorResidenteBeneficiario": 1,
+      "tipoDocumentoOrdenante": "3",
+      "nombreDocumentoOrdenante": "TR",
+      "numeroDocumentoOrdenante": "X00045821M",
+      "referenciaCheque": " ",
+      "codigoEstadoCheque": "SA",
+      "nombreEstadoCheque": "Pdte. Anulación",
+      "nombreBeneficiario": "nombre",
+      "nombreOrdenante": "PEPITOÛPEREZ",
+      "indicadorResidenteOrdenante": 1,
+      "comisionCheque": {
+        "importeConSigno": 999,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      }
+    }, {
+      "identificadorCheque": "6",
+      "numeroOrdenCheque": 0,
+      "numeroCheque": "0",
+      "importeCheque": {
+        "importeConSigno": 255000,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "indicadorResidenteBeneficiario": 0,
+      "tipoDocumentoOrdenante": "3",
+      "nombreDocumentoOrdenante": "TR",
+      "numeroDocumentoOrdenante": "X00045821M",
+      "referenciaCheque": " ",
+      "codigoEstadoCheque": "SA",
+      "nombreEstadoCheque": "Pdte. Anulación",
+      "nombreBeneficiario": "hola",
+      "nombreOrdenante": "PEPITOÛPEREZ",
+      "indicadorResidenteOrdenante": 1,
+      "comisionCheque": {
+        "importeConSigno": 999,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      }
+    }]
+  }
+}

@@ -1,0 +1,239 @@
+[ {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "ECRE",
+  "DESCORTA" : "RESIDENCIAL",
+  "DESLARGA" : "RESIDENCIAL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "ECCO",
+  "DESCORTA" : "COMERCIAL",
+  "DESLARGA" : "COMERCIAL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "ECID",
+  "DESCORTA" : "INDUSTRIAL",
+  "DESLARGA" : "INDUSTRIAL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "ECGA",
+  "DESCORTA" : "GARAJE",
+  "DESLARGA" : "GARAJE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "ECDO",
+  "DESCORTA" : "DOTACIONAL",
+  "DESLARGA" : "DOTACIONAL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "ECHO",
+  "DESCORTA" : "HOTELERO",
+  "DESLARGA" : "HOTELERO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "ECOF",
+  "DESCORTA" : "OFICINAS",
+  "DESLARGA" : "OFICINAS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VIPI",
+  "DESCORTA" : "PISO",
+  "DESLARGA" : "PISO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VIDU",
+  "DESCORTA" : "PISO DUPLEX",
+  "DESLARGA" : "PISO DUPLEX"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VICH",
+  "DESCORTA" : "CHALET AISLADO",
+  "DESLARGA" : "CHALET AISLADO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VICD",
+  "DESCORTA" : "CHALET ADOSADO",
+  "DESLARGA" : "CHALET ADOSADO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VICU",
+  "DESCORTA" : "CASA UNIFAMILIAR",
+  "DESLARGA" : "CASA UNIFAMILIAR"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "COLO",
+  "DESCORTA" : "LOCAL",
+  "DESLARGA" : "LOCAL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "COOF",
+  "DESCORTA" : "OFICINA",
+  "DESLARGA" : "OFICINA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "COAL",
+  "DESCORTA" : "ALMACEN",
+  "DESLARGA" : "ALMACEN"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "IDAD",
+  "DESCORTA" : "NAVE ADOSADA",
+  "DESLARGA" : "NAVE ADOSADA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "IDAI",
+  "DESCORTA" : "NAVE AISLADA",
+  "DESLARGA" : "NAVE AISLADA"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "IDND",
+  "DESCORTA" : "NAVE ED.INDUSTRIAL",
+  "DESLARGA" : "NAVE ED.INDUSTRIAL"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "IDNV",
+  "DESCORTA" : "NAVE VARIAS PLANTAS",
+  "DESLARGA" : "NAVE VARIAS PLANTAS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "SUNC",
+  "DESCORTA" : "SUELO URBANO NO CONSOLIDADO",
+  "DESLARGA" : "SUELO URBANO NO CONSOLIDADO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "SUUP",
+  "DESCORTA" : "SUELO URBANIZABLE SECTORIZADO",
+  "DESLARGA" : "SUELO URBANIZABLE SECTORIZADO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "SUUN",
+  "DESCORTA" : "SUELO URBANIZABLE NO SECTORIZADO",
+  "DESLARGA" : "URBANIZABLE NO SECTORIZADO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "SUSP",
+  "DESCORTA" : "SUELO URBANO CONSOLIDADO",
+  "DESLARGA" : "SUELO URBANO CONSOLIDADO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "SURS",
+  "DESCORTA" : "FINCAS RUSTICAS",
+  "DESLARGA" : "FINCAS RUSTICAS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "SUNU",
+  "DESCORTA" : "SUELO NO URBANIZABLE O RUSTICO",
+  "DESLARGA" : "SUELO NO URBANIZABLE O RUSTICO VALORADO CON EXPECTATIVAS URBANISTICAS"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "SURX",
+  "DESCORTA" : "FINCA RUSTICA EN EXPLOTACION",
+  "DESLARGA" : "FINCA RUSTICA EN EXPLOTACION"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "SURR",
+  "DESCORTA" : "FINCA RUSTICA, RESTO",
+  "DESLARGA" : "FINCA RUSTICA, RESTO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VAAP",
+  "DESCORTA" : "APARCAMIENTO",
+  "DESLARGA" : "APARCAMIENTO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VAGJ",
+  "DESCORTA" : "GARAJE",
+  "DESLARGA" : "GARAJE"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VATR",
+  "DESCORTA" : "TRASTERO",
+  "DESLARGA" : "TRASTERO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VART",
+  "DESCORTA" : "REG. HOTELERO",
+  "DESLARGA" : "REG. HOTELERO"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VARM",
+  "DESCORTA" : "RESIDENCIA 3ª EDAD",
+  "DESLARGA" : "RESIDENCIA 3ª EDAD"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VAES",
+  "DESCORTA" : "RESIDENCIA ESTUDIANTES",
+  "DESLARGA" : "RESIDENCIA ESTUDIANTES"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "VAOT",
+  "DESCORTA" : "OTROS",
+  "DESLARGA" : "OTROS"
+} ]

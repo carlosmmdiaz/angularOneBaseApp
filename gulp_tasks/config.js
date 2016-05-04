@@ -1,21 +1,16 @@
 'use strict';
 module.exports = {
+    clean: {
+        dest: '.tmp'
+    },
     sass: {
         mainSrc: 'assets/scss/main.scss',
-        origin: 'assets/scss',
-        destSass: '.tmp/styles',
+        origin: 'assets/scss',        
         srcToWacth: [
             'assets/scss/*',
             'assets/scss/**/*',
-        ]
-    },
-    scripts: {
-        src:  [
-            'app/app.module.js',
-            'app/components/**/*.js',
-            'app/shared/directives/**/*.js',
-            'app/shared/**/*.js'
-        ]
+        ],
+        destSass: '.tmp/css',
     },
     jade: {
         src:  [
@@ -30,5 +25,20 @@ module.exports = {
             'app/shared/directives/**/*.jade'
         ],
         destJade: '.tmp/'
+    },
+    js: {
+        srcToWacth:  [
+            'app/app.module.js',
+            'app/components/**/*.js',
+            'app/shared/directives/**/*.js',
+            'app/shared/**/*.js'
+        ],
+        destJs: '.tmp/js'
+    },
+    bower: {
+        src: [
+            'app/bower_components/angular/angular.min.js'
+        ],
+        destBower: '.tmp/js'
     }
 };

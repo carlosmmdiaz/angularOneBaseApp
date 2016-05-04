@@ -1,0 +1,29 @@
+[ {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "S",
+  "DESCORTA" : "Firma simultánea inscribir CV y préstamo",
+  "DESLARGA" : "Firma simultánea inscribir CV y préstamo"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "P",
+  "DESCORTA" : "Firma escritura de préstamo",
+  "DESLARGA" : "Firma escritura de préstamo"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "C",
+  "DESCORTA" : "Firma escritura de préstamo con consentimiento titular registral",
+  "DESLARGA" : "Firma escritura de préstamo con consentimiento titular registral"
+}, {
+  "_id" : {
+    "$oid" : "identificadorhas"
+  },
+  "CODIGO" : "O",
+  "DESCORTA" : "Otros",
+  "DESLARGA" : "Otros"
+} ]

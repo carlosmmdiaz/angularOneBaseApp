@@ -1,0 +1,134 @@
+{
+    "stateData": {
+        "viewId": "MostrarResultadoOperacionIU",
+        "availableTransitions": {
+            "terminar": "/api/1.0/extranet/extranetGestorias/obtenerExpedientesPropuestas?_eventId=terminar&execution=e17s1",
+            "end": "/api/1.0/extranet/extranetGestorias/obtenerExpedientesPropuestas?_eventId=end&execution=e17s1"
+        }
+    },
+    "data": {
+        "codigoCentro": "1778",
+        "vectorListaDetalleExpedientes": [{
+            "documento": "X00045821M",
+            "estado": "200",
+            "imagenEstado": "\u0000\u0000",
+            "expediente": "000000001571082275",
+            "importePropuesto": {
+                "importeConSigno": 3000000,
+                "numeroDecimalesImporte": "2",
+                "moneda": {
+                    "divisa": "281",
+                    "digitoControlDivisa": "1"
+                }
+            },
+            "lineaRiesgo": "0510ZM",
+            "producto": "LA HIPOTECA BASICA",
+            "razonSocial": "PEPITO PEREZ",
+            "tipoInterviniente": "10",
+            "tipoTramitacion": "APERTUBC",
+            "descripcionTipoTramitacion": "ALTA",
+            "identificadorPropuesta": "000010000006478917",
+            "nombrePropuesta": "MILA TR DESEM-2",
+            "codigoGrupoProducto": "10",
+            "codigoFamiliaProducto": "05",
+            "codigoLineaDeNegocio": "ZM"
+        }, {
+            "documento": "X00045821M",
+            "estado": "200",
+            "imagenEstado": "\u0000\u0000",
+            "expediente": "000000001571082410",
+            "importePropuesto": {
+                "importeConSigno": 3000000,
+                "numeroDecimalesImporte": "2",
+                "moneda": {
+                    "divisa": "281",
+                    "digitoControlDivisa": "1"
+                }
+            },
+            "lineaRiesgo": "0510ZM",
+            "producto": "LA HIPOTECA BASICA",
+            "razonSocial": "PEPITO PEREZ",
+            "tipoInterviniente": "10",
+            "tipoTramitacion": "APERTUBC",
+            "descripcionTipoTramitacion": "ALTA",
+            "identificadorPropuesta": "000010000006478917",
+            "nombrePropuesta": "MILA TR DESEM-2",
+            "codigoGrupoProducto": "10",
+            "codigoFamiliaProducto": "05",
+            "codigoLineaDeNegocio": "ZM"
+        }, {
+            "documento": "X00045821M",
+            "estado": "200",
+            "imagenEstado": "\u0000\u0000",
+            "expediente": "000000001571082527",
+            "importePropuesto": {
+                "importeConSigno": 3000000,
+                "numeroDecimalesImporte": "2",
+                "moneda": {
+                    "divisa": "281",
+                    "digitoControlDivisa": "1"
+                }
+            },
+            "lineaRiesgo": "0510ZM",
+            "producto": "LA HIPOTECA BASICA",
+            "razonSocial": "PEPITO PEREZ",
+            "tipoInterviniente": "10",
+            "tipoTramitacion": "APERTUBC",
+            "descripcionTipoTramitacion": "ALTA",
+            "identificadorPropuesta": "000010000006478917",
+            "nombrePropuesta": "MILA TR DESEM-2",
+            "codigoGrupoProducto": "10",
+            "codigoFamiliaProducto": "05",
+            "codigoLineaDeNegocio": "ZM"
+        }, {
+            "documento": "X00045821M",
+            "estado": "200",
+            "imagenEstado": "\u0000\u0000",
+            "expediente": "000000001571082644",
+            "importePropuesto": {
+                "importeConSigno": 3000000,
+                "numeroDecimalesImporte": "2",
+                "moneda": {
+                    "divisa": "281",
+                    "digitoControlDivisa": "1"
+                }
+            },
+            "lineaRiesgo": "0510ZM",
+            "producto": "CREDITO JOVEN",
+            "razonSocial": "PEPITO PEREZ",
+            "tipoInterviniente": "10",
+            "tipoTramitacion": "APERTUBC",
+            "descripcionTipoTramitacion": "ALTA",
+            "identificadorPropuesta": "000010000006478917",
+            "nombrePropuesta": "MILA TR DESEM-2",
+            "codigoGrupoProducto": "10",
+            "codigoFamiliaProducto": "05",
+            "codigoLineaDeNegocio": "ZM"
+        }, {
+            "documento": "X00045821M",
+            "estado": "200",
+            "imagenEstado": "\u0000\u0000",
+            "expediente": "000000001571082761",
+            "importePropuesto": {
+                "importeConSigno": 3000000,
+                "numeroDecimalesImporte": "2",
+                "moneda": {
+                    "divisa": "281",
+                    "digitoControlDivisa": "1"
+                }
+            },
+            "lineaRiesgo": "0510ZM",
+            "producto": "CREDITO JOVEN",
+            "razonSocial": "PEPITO PEREZ",
+            "tipoInterviniente": "10",
+            "tipoTramitacion": "APERTUBC",
+            "descripcionTipoTramitacion": "ALTA",
+            "identificadorPropuesta": "000010000006478917",
+            "nombrePropuesta": "MILA TR DESEM-2",
+            "codigoGrupoProducto": "10",
+            "codigoFamiliaProducto": "05",
+            "codigoLineaDeNegocio": "ZM"
+        }],
+        "numeroOcurrencias": 0
+    }
+}

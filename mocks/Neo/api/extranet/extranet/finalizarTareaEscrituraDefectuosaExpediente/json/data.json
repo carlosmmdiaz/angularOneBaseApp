@@ -1,0 +1,67 @@
+{
+  "stateData": {
+    "viewId": "MostrarResultadoOperacionIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/gestionarCargasPrevias-flow/extranet/cargasprevias/gestionar?_eventId=terminar&execution=e1s1",
+      "end": "/api/1.0/gestionarCargasPrevias-flow/extranet/cargasprevias/gestionar?_eventId=end&execution=e1s1"
+    }
+  },
+  "data": [{
+        "claseCarga": "HIPOTECA",
+        "numFinca": "12345678",
+        "numRegistro": "45217",
+        "domicilio": "Calle Arquimedes nº5 Madrid 20004  sadsadsadsadsadsadasd",
+        "provincia": "Las Palmas de Gran Canaria",
+        "municipio": "Santa Coloma de Gramanet",
+        "beneficiario": "Banco Santander",
+        "certificado": " ",
+        "fechaCertificado": "2015-12-21T23:00:00.000Z",
+        "formaPago": {
+            "Id": "C",
+            "Codigo": "TNTIFPAG",
+            "DescLarga": "Cheque bancario",
+            "DescCorta": "Cheque bancario"
+        },
+        "importeRegistral": {
+            "currency": "EUR",
+            "number": "1122324",
+            "decimals": 2
+        },
+        "importeEconomico": {
+            "currency": "EUR",
+            "number": "543532",
+            "decimals": 2
+        },
+        "cuentaDestino": "GR16203899991299992323",
+        "obligatorio": "1"
+    }, 
+    {
+        "claseCarga": "OTRO",
+        "numFinca": "676435",
+        "numRegistro": "522317",
+        "domicilio": "Calle Sin Nombre nº5",
+        "provincia": "Madrid",
+        "municipio": "Madrid",
+        "beneficiario": "Banco Popular",
+        "certificado": "SI",
+        "fechaCertificado": "2015-12-21T23:00:00.000Z",
+        "formaPago": {
+            "Id": "O",
+            "Codigo": "TNTIFPAG",
+            "DescLarga": "Transferencia OMF",
+            "DescCorta": "Transferencia OMF"
+        },
+        "importeRegistral": {
+            "currency": "EUR",
+            "number": "0",
+            "decimals": 2
+        },
+        "importeEconomico": {
+            "currency": "EUR",
+            "number": "326323",
+            "decimals": 2
+        },
+        "cuentaDestino": "GR16203899991299992323",
+        "obligatorio": "0"
+  	}]
+}

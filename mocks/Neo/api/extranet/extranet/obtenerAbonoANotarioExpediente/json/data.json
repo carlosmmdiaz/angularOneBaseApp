@@ -1,0 +1,751 @@
+{
+  "stateData": {
+    "viewId": "mostrarDatosAbonoANotarioExpedienteIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/extranetPostFormalizacion/extranet/obtenerAbonoANotarioExpediente?_eventId=terminar&execution=e22s1",
+      "end": "/api/1.0/extranetPostFormalizacion/extranet/obtenerAbonoANotarioExpediente?_eventId=end&execution=e22s1"
+    }
+  },
+  "data": {
+    "identificadorNotario": "454",
+    "nombreNotario": "RUBEN PEREZ GARCIA",
+    "identificadorGestoria": "89608",
+    "nombreGestoria": "COMUNIDAD JORDANA2",
+    "importeProvisionAbonoNotario": {
+      "importeConSigno": 82515500,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      },
+      "nombreMoneda": "EUR"
+    },
+    "facturas": [
+      {
+        "numeroSecuenciaAbono": "1",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-01-18"
+        },
+        "importeFactura": {
+          "importeConSigno": 100011,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": "hay suficiente patrimonio hay suficiente patrimoni"
+      },
+      {
+        "numeroSecuenciaAbono": "2",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-01-19"
+        },
+        "importeFactura": {
+          "importeConSigno": 49922,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": "hay suficiente patrimonio hay suficiente patrimoni"
+      },
+      {
+        "numeroSecuenciaAbono": "9",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "1602-12-20"
+        },
+        "importeFactura": {
+          "importeConSigno": 9999991005606,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "16",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-03"
+        },
+        "importeFactura": {
+          "importeConSigno": 34300,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "23",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-17"
+        },
+        "importeFactura": {
+          "importeConSigno": 1256500,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "24",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-18"
+        },
+        "importeFactura": {
+          "importeConSigno": 1234400,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "27",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-19"
+        },
+        "importeFactura": {
+          "importeConSigno": 12300,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "28",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-16"
+        },
+        "importeFactura": {
+          "importeConSigno": 5000,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "14",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-03"
+        },
+        "importeFactura": {
+          "importeConSigno": 3498,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "15",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-03"
+        },
+        "importeFactura": {
+          "importeConSigno": 23306,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "29",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-18"
+        },
+        "importeFactura": {
+          "importeConSigno": 100,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "30",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-03"
+        },
+        "importeFactura": {
+          "importeConSigno": 100000,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "31",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-24"
+        },
+        "importeFactura": {
+          "importeConSigno": 100,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "32",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-31"
+        },
+        "importeFactura": {
+          "importeConSigno": 10000,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "33",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-31"
+        },
+        "importeFactura": {
+          "importeConSigno": 10000,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "34",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-30"
+        },
+        "importeFactura": {
+          "importeConSigno": 10000,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "35",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-10-19"
+        },
+        "importeFactura": {
+          "importeConSigno": 66600,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "36",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-18"
+        },
+        "importeFactura": {
+          "importeConSigno": 100000,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "37",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-01"
+        },
+        "importeFactura": {
+          "importeConSigno": 88800,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "38",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-24"
+        },
+        "importeFactura": {
+          "importeConSigno": 10000,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "39",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-01"
+        },
+        "importeFactura": {
+          "importeConSigno": 555500,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "40",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-31"
+        },
+        "importeFactura": {
+          "importeConSigno": 30000,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "41",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-01"
+        },
+        "importeFactura": {
+          "importeConSigno": 34516,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "42",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-24"
+        },
+        "importeFactura": {
+          "importeConSigno": 33333300,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": "PRUEBA JORGE"
+      },
+      {
+        "numeroSecuenciaAbono": "43",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-01"
+        },
+        "importeFactura": {
+          "importeConSigno": 1025,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "44",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-01"
+        },
+        "importeFactura": {
+          "importeConSigno": 32,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "45",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-01"
+        },
+        "importeFactura": {
+          "importeConSigno": 10,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "47",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-02"
+        },
+        "importeFactura": {
+          "importeConSigno": 222200,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "49",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-25"
+        },
+        "importeFactura": {
+          "importeConSigno": 1100,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "50",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-17"
+        },
+        "importeFactura": {
+          "importeConSigno": 30,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "53",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-16"
+        },
+        "importeFactura": {
+          "importeConSigno": 100,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "17",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-16"
+        },
+        "importeFactura": {
+          "importeConSigno": 3300,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "18",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-16"
+        },
+        "importeFactura": {
+          "importeConSigno": 5600,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "19",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-10-10"
+        },
+        "importeFactura": {
+          "importeConSigno": 100,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": "test"
+      },
+      {
+        "numeroSecuenciaAbono": "20",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-02-02"
+        },
+        "importeFactura": {
+          "importeConSigno": 10000,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "21",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-02-03"
+        },
+        "importeFactura": {
+          "importeConSigno": 10000,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "22",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-01-31"
+        },
+        "importeFactura": {
+          "importeConSigno": 100,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "25",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-01"
+        },
+        "importeFactura": {
+          "importeConSigno": 100,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "26",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-01"
+        },
+        "importeFactura": {
+          "importeConSigno": 100,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "46",
+        "codigoEstadoAbonoFactura": "RE",
+        "fechaRecepcion": {
+          "valor": "2016-03-31"
+        },
+        "importeFactura": {
+          "importeConSigno": 100,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": " "
+      },
+      {
+        "numeroSecuenciaAbono": "51",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-30"
+        },
+        "importeFactura": {
+          "importeConSigno": 100000000,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": "ppureba de motivo desde modal"
+      },
+      {
+        "numeroSecuenciaAbono": "52",
+        "codigoEstadoAbonoFactura": "AS",
+        "fechaRecepcion": {
+          "valor": "2016-03-30"
+        },
+        "importeFactura": {
+          "importeConSigno": 100000000,
+          "numeroDecimalesImporte": "2",
+          "moneda": {
+            "divisa": "281",
+            "digitoControlDivisa": "1"
+          },
+          "nombreMoneda": "EUR"
+        },
+        "motivoDesviacion": "ppureba de motivo desde modal"
+      }
+    ],
+    "importeTotalOperacionesPagos": {
+      "importeConSigno": 9999993698039,
+      "numeroDecimalesImporte": "2",
+      "moneda": {
+        "divisa": "281",
+        "digitoControlDivisa": "1"
+      },
+      "nombreMoneda": "EUR"
+    },
+    "clavePaginacionOut": "",
+    "indicadorHayMasAbonosNotario": false
+  }
+}

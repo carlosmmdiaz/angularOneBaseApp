@@ -1,0 +1,60 @@
+{
+  "stateData": {
+    "viewId": "mostrarDatosFormalizacionFondosIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/extranetFormalizacion/extranet/obtenerDatosFormalizacionProvisionExpediente?_eventId=terminar&execution=e14s1",
+      "end": "/api/1.0/extranetFormalizacion/extranet/obtenerDatosFormalizacionProvisionExpediente?_eventId=end&execution=e14s1"
+    }
+  },
+  "data": {
+    "datosFormalizacion": {
+      "numeroCuentaAsociada": {
+        "pais": "ES",
+        "digitosDeControl": "57",
+        "identificador": "20381778196011596572"
+      },
+      "cuentaCorriente": "ES5720381778196011596572",
+      "compraVenta": 1,
+      "codigoIndicadorMedioDePago": "C",
+      "importeValorEscriturar": {
+        "importeConSigno": 400,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "importeEntregaACuenta": {
+        "importeConSigno": 500,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      },
+      "formaPago": "C",
+      "codigoDesembolso": "1",
+      "nombreDesembolso": "A la Firma escritura (sin condición suspensiva)",
+      "codigoInstrumentacion": "E",
+      "nombreInstrumentacion": "Firma escritura de subrogación",
+      "codigoGestoria": 89666,
+      "nombreGestoria": "GESTORIA VILLALBA",
+      "codigoFirmante": "G",
+      "fechaPrevistaDeFirma": {
+        "valor": ""
+      },
+      "numeroNotario": "454",
+      "nombreNotario": "RUBEN PEREZ GARCIA",
+      "interes": 18,
+      "intervaloDemora": 24,
+      "costasGastos": {
+        "importeConSigno": 4500000,
+        "numeroDecimalesImporte": "2",
+        "moneda": {
+          "divisa": "281",
+          "digitoControlDivisa": "1"
+        }
+      }
+    }
+  }
+}

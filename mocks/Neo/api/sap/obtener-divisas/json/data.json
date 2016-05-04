@@ -1,0 +1,16 @@
+[
+  {
+    "cod": "2811",
+    "ad": "EUR",
+    "sd": "EURO",
+    "ld": "EURO",
+    "decimals": 2
+  },
+  {
+    "cod": "1035",
+    "ad": "USD",
+    "sd": "DOLARES USA",
+    "ld": "DOLARES USA",
+    "decimals": 3
+  }
+]

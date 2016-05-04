@@ -1,0 +1,13 @@
+{
+	"stateData": {
+		"viewId": "mostrarModificarAltaDatoProvisionFondosExpediente",
+		"availableTransitions": {
+			"terminar": "/api/1.0/extranetFormalizacion/extranet/modificarDatosFormalizacionFondos?_eventId=terminar&execution=e19s1",
+			"end": "/api/1.0/extranetFormalizacion/extranet/modificarDatosFormalizacionFondos?_eventId=end&execution=e19s1"
+		}
+	},
+	"data": {
+		"codigoError": "TN99992E",
+		"resolucion": "Fecha invalida"
+	}
+}

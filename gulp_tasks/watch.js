@@ -1,16 +1,13 @@
 'use strict';
 
-var gulp = require('gulp');
-
-require('./config.js');
-
-var srcSass = require('./config').sass.srcToWacth;
-var srcJade = require('./config').jade.srcToWacth;
+var gulp = require('gulp'),
+    srcJs = require('./config').js.srcToWacth,
+    srcSass = require('./config').sass.srcToWacth,
+    srcJade = require('./config').jade.srcToWacth;
 
 gulp.task('watch', function(callbacks){
-    
-    //gulp.watch(scripts, ['compress'])
-    //    .on('change', logWatch);
+    gulp.watch(srcJs, ['concat'])
+        .on('change', logWatch);
     gulp.watch(srcSass, ['sass'])
         .on('change', logWatch);
     gulp.watch(srcJade, ['jade'])

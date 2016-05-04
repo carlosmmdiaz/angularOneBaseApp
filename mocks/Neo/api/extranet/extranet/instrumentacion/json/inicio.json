@@ -1,0 +1,18 @@
+{
+  "data": {
+    "datosInstrumentacion": {
+      "codigoDesembolso": "1",
+      "codigoInstrumentacion": "S",
+      "comentarios": "OBSERVACIONES DEL INFORME REGISTRAL",
+      "identificadorGestor": "2038",
+      "nombreDeCentroGestor": "Gestor prueba"
+    }
+  },
+  "stateData": {
+    "viewId": "MostrarDatosRecuperadosIU",
+    "availableTransitions": {
+      "guardarDatosInstrumentacion": "/api/1.0/extranet/extranet/instrumentacion?_eventId=guardarDatosInstrumentacion&execution=e1s1",
+      "end": "/api/1.0/extranet/extranet/instrumentacion?_eventId=end&execution=e1s1"
+    }
+  }
+}

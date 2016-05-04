@@ -1,0 +1,18 @@
+[
+  {
+    "_id": {
+      "$oid": "56038c8ddc9c2808aaf85261"
+    },
+    "CODIGO": "1",
+    "DESCORTA": "A la Firma escritura (sin condici�n suspensiva)",
+    "DESLARGA": "A la firma de la escritura (sin condici�n suspensiva)"
+  },
+  {
+    "_id": {
+      "$oid": "56038c8ddc9c2808aaf85262"
+    },
+    "CODIGO": "3",
+    "DESCORTA": "Seg�n plan de financiaci�n (promotores)",
+    "DESLARGA": "Seg�n plan de financiaci�n (promotores)"
+  }
+]

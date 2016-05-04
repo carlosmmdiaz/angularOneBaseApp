@@ -1,0 +1,13 @@
+{
+  "stateData": {
+    "viewId": "mostrarDetalleEscrituraDefectuosaExpedienteIU",
+    "availableTransitions": {
+      "terminar": "/api/1.0/obtenerDetalleEscrituraDefectuosaExpediente-flow/extranet/obtenerDetalleEscrituraDefectuosaExpediente?_eventId=terminar&execution=e8s1",
+      "end": "/api/1.0/obtenerDetalleEscrituraDefectuosaExpediente-flow/extranet/obtenerDetalleEscrituraDefectuosaExpediente?_eventId=end&execution=e8s1"
+    }
+  },
+  "data": {
+    "comentarioDescripcionDefecto": "Prueba\nPrueba\nPruebaaaa",
+    "comentarioAccionesRealizadas": "PRUEBA COMENTARIO GESTION ESCRITURA DEFECTUOSA AR MODIFICADO\n(modificado) ACCIONES REALIZADAS PRUEBA LINEA 1\n(modificado) ACCIONES REALIZADAS PRUEBA LINEA 2\n(modificado) ACCIONES REALIZADAS PRUEBA LINEA 3\n(modificado) ACCIONES REALIZADAS PRUEBA LINEA"
+  }
+}

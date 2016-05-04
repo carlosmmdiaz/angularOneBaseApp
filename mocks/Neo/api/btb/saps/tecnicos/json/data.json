@@ -1,0 +1,16 @@
+{
+  "tecnicos": [
+    {
+      "usuarioSSA": "A000000",
+      "nombre": "Pepe"
+    },
+    {
+      "usuarioSSA": "A000000",
+      "nombre": "Juan"
+    },
+    {
+      "usuarioSSA": "A125336",
+      "nombre": "Carlos"
+    }
+  ]
+}
