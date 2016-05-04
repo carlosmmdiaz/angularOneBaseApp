@@ -1,0 +1,11 @@
+{
+  "name": "prestamos",
+  "description": "Rediseño AAD - Aplicacion de prestamos",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "angular": "1.5.5"
+  }
+}
