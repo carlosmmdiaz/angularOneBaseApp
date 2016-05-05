@@ -8,12 +8,14 @@ gulp.task('sass',function(){
     return compileSass();
 });
 
+gulp.task('sass-compressed', function () {
+ return gulp.src(sassConfig.mainSrc)
+   .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+   .pipe(gulp.dest(sassConfig.destSass));
+});
+
 function compileSass(){
     return gulp.src(sassConfig.mainSrc)
-        .pipe(sass())
-        .on('error', function(error) {
-            console.log('Error SASS: ' + error);
-            this.emit('end');
-        })
+        .pipe(sass.sync().on('error', sass.logError))
         .pipe(gulp.dest(sassConfig.destSass));
 }

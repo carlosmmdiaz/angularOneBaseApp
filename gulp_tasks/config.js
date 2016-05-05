@@ -10,10 +10,11 @@ module.exports = {
         ]
     },
     sass: {
-        mainSrc: 'assets/scss/main.scss',     
+        mainSrc: 'assets/scss/main.scss',
+        origin: 'assets/scss',
         srcToWacth: [
-            'assets/scss/*',
-            'assets/scss/**/*',
+            'assets/scss/*.scss',
+            'assets/scss/**/*.scss'
         ],
         destSass: '.tmp/css',
     },
