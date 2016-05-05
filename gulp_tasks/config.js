@@ -1,11 +1,16 @@
 'use strict';
 module.exports = {
-    clean: {
-        dest: '.tmp'
+    main: {
+        dest: '.tmp',
+        reloadFiles: [
+            '.tmp/*.html',
+            '.tmp/**/*.html',
+            '.tmp/css/*.css',
+            '.tmp/js/*.js'
+        ]
     },
     sass: {
-        mainSrc: 'assets/scss/main.scss',
-        origin: 'assets/scss',        
+        mainSrc: 'assets/scss/main.scss',     
         srcToWacth: [
             'assets/scss/*',
             'assets/scss/**/*',

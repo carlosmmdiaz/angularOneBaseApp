@@ -8,8 +8,10 @@ gulp.task('cleanJade', ['clean'], function(){
     compileJade(jadeConfig.src, jadeConfig.destJade);
 });
 
-gulp.task('jade', function(){
+gulp.task('jade', function() {
+
     compileJade(jadeConfig.src, jadeConfig.destJade);
+    console.log('fin');
 });
 
 function compileJade(src, dest){
