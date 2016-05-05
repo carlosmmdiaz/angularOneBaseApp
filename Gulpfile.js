@@ -18,7 +18,8 @@ gulp.task('default', ['start'], function() {
     browserSync.init(
 	    config.main.reloadFiles,
 	    {
-	        server: config.main.dest
+	        server: config.main.dest,
+            port: config.main.port
 	    }
     );
     gulp.watch(config.js.srcToWacth, ['concat'])

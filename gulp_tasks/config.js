@@ -7,7 +7,8 @@ module.exports = {
             '.tmp/**/*.html',
             '.tmp/css/*.css',
             '.tmp/js/*.js'
-        ]
+        ],
+        port: '8080'
     },
     sass: {
         mainSrc: 'assets/scss/main.scss',
