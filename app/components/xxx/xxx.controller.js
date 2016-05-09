@@ -10,7 +10,7 @@
 
         // Public functions:
         function init() {
-           
+           console.log('test');
         }
         init();
 

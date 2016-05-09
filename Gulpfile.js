@@ -10,7 +10,7 @@ requireDir('./gulp_tasks');
 
 // Main task that get ready everything that we need to start developing:
 gulp.task('start', ['clean'], function() {
-	runSequence('clean', 'bower', 'concat', 'jade', 'sass');
+	runSequence('clean', 'bower', 'concat', 'jade', 'sass', 'express');
 });
 
 // Default task, just type gulp:
@@ -19,7 +19,7 @@ gulp.task('default', ['start'], function() {
 	    config.main.reloadFiles,
 	    {
 	        server: config.main.dest,
-            port: config.main.port
+            //port: config.main.port
 	    }
     );
     gulp.watch(config.js.srcToWacth, ['concat'])

@@ -1,7 +1,9 @@
 /*global  angular*/
 (function () {
     'use strict';
-    var moduleDependencies = [];
+    var moduleDependencies = [
+    	
+    ];
 
     angular.module('app', moduleDependencies);
 }());

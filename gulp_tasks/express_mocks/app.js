@@ -10,7 +10,7 @@ function servidores (){
 
     var path = require('path'),
         pathDir = path.resolve('.'),
-        pathAPIs= './mocks/config/RestAPIs',
+        pathAPIs= './gulp_tasks/express_mocks/config/RestAPIs',
         dirs = fs.readdirSync(pathAPIs);
 
 

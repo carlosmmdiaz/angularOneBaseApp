@@ -2,7 +2,7 @@
     'use strict';
     module.exports = {
             express: {
-                path: '/mocks/',
+                path: '/gulp_tasks/express_mocks/',
                 //mockPort:18741,
                 mockDir: 'Neo/api/',
                 mockHost:'extranet.epd.cm.es',
