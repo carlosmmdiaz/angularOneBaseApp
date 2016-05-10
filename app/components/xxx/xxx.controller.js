@@ -1,7 +1,7 @@
 (function() {
     'use strict';
     angular
-        .module('app')
+        .module('app.xxx')
         .controller('xxxCtrl', controller);
 
     /* @ngInject */
@@ -10,7 +10,6 @@
 
         // Public functions:
         function init() {
-           console.log('test');
         }
         init();
 

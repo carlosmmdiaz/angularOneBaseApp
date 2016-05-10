@@ -36,15 +36,23 @@ module.exports = {
     js: {
         srcToWacth:  [
             'app/app.module.js',
-            'app/components/**/*.js',
-            'app/shared/directives/**/*.js',
-            'app/shared/**/*.js'
+            'app/core/router/router.module.js',
+            'app/core/router/routerhelper.js',
+            'app/core/core.module.js',
+            'app/components/xxx/xxx.module.js',
+            'app/components/xxx/xxx.route.js',
+            'app/components/xxx/xxx.controller.js',
+            //'app/shared/directives/**/*.js',
+            //'app/shared/**/*.js'
         ],
         destJs: '.tmp/js'
     },
     bower: {
         src: [
-            'app/bower_components/angular/angular.min.js'
+            'app/bower_components/angular/angular.min.js',
+            'app/bower_components/angular-animate/angular-animate.min.js',
+            'app/bower_components/angular-route/angular-route.min.js',
+            'app/bower_components/angular-sanitize/angular-sanitize.min.js',
         ],
         destBower: '.tmp/js'
     }

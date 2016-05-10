@@ -1,8 +1,11 @@
 (function() {
     'use strict';
+    
     angular
         .module('app.xxx')
         .run(appRun);
+
+    appRun.$inject = ['routehelper'];
 
     /* @ngInject */
     function appRun(routehelper) {
@@ -12,9 +15,9 @@
     function getRoutes() {
         return [
             {
-                url: '/xxx',
+                url: '/',
                 config: {
-                    templateUrl: 'xxx.html',
+                    templateUrl: 'xxx/xxx.html',
                     controller: 'xxxCtrl',
                     controllerAs: 'vm',
                     title: 'XXX',
