@@ -19,7 +19,7 @@ gulp.task('default', ['start'], function() {
 	    config.main.reloadFiles,
 	    {
 	        server: config.main.dest,
-            //port: config.main.port
+            port: config.main.port
 	    }
     );
     gulp.watch(config.js.srcToWacth, ['concat'])
