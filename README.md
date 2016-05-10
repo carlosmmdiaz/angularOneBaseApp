@@ -41,8 +41,8 @@ gulp
 Give Git your name and email.
 
 ```
-git config --global user.name "Tu nombre"
-git config --global user.email "TuEmail@example.com"
+git config --global user.name "Your name"
+git config --global user.email "yourEmail@example.com"
 ```
 
 ## Testing
