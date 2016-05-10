@@ -1,1 +1,0 @@
-[ { "_id" : { "$oid" : "5603b7ecdc9c2808aaf852e8"} , "CODIGO" : "N" , "DESCORTA" : "Novar" , "DESLARGA" : "Novar"} , { "_id" : { "$oid" : "5603b7ecdc9c2808aaf852e9"} , "CODIGO" : "A" , "DESCORTA" : "Ampliar" , "DESLARGA" : "Ampliar"} , { "_id" : { "$oid" : "5603b7ecdc9c2808aaf852ea"} , "CODIGO" : "D" , "DESCORTA" : "Adecuar" , "DESLARGA" : "Adecuar"}]

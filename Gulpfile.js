@@ -10,16 +10,30 @@ requireDir('./gulp_tasks');
 
 // Main task that get ready everything that we need to start developing:
 gulp.task('start', ['clean'], function() {
-	runSequence('clean', 'bower', 'concat', 'jade', 'sass', 'express');
+	runSequence('clean', 'bower', 'concat', 'jade', 'sass');
 });
 
+var mocks = {
+    '/mock': function (req, res) {
+        res.setHeader('Content-Type', 'application/json');
+        res.end(JSON.stringify({
+            name: 'shane'
+        }));
+    }
+};
 // Default task, just type gulp:
 gulp.task('default', ['start'], function() {    
     browserSync.init(
 	    config.main.reloadFiles,
 	    {
 	        server: config.main.dest,
-            port: config.main.port
+            port: config.main.port,
+            middleware: function (req, res, next) {
+                if (mocks[req.url]) {
+                    mocks[req.url](req, res);
+                }
+                next();
+            }
 	    }
     );
     gulp.watch(config.js.srcToWacth, ['concat'])
